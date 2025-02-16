@@ -368,3 +368,37 @@
 [23:06:09] [Server thread/INFO]: DjGuetta joined the game
 [23:06:38] [Server thread/INFO]: DjGuetta lost connection: Timed out
 [23:06:38] [Server thread/INFO]: DjGuetta left the game
+[23:08:15] [Server thread/INFO]: DjGuetta[/100.70.165.9:58848] logged in with entity id 453 at (-209.87036713050514, 75.0, -24.572603737564645)
+[23:08:15] [Server thread/INFO]: Syncing config to DjGuetta (4f4dd9df-0d94-391d-986e-4c0c44220740)
+[23:08:15] [Server thread/INFO]: Loading config from file...
+[23:08:15] [Server thread/INFO]: DjGuetta joined the game
+[23:08:22] [Server thread/INFO]: [Not Secure] <DjGuetta> ya toy
+[23:08:30] [Server thread/INFO]: DjGuetta lost connection: Disconnected
+[23:08:30] [Server thread/INFO]: DjGuetta left the game
+[23:08:58] [Server thread/INFO]: DjGuetta[/100.70.165.9:58857] logged in with entity id 636 at (-209.87036713050514, 75.0, -24.572603737564645)
+[23:08:58] [Server thread/INFO]: Syncing config to DjGuetta (4f4dd9df-0d94-391d-986e-4c0c44220740)
+[23:08:58] [Server thread/INFO]: Loading config from file...
+[23:08:58] [Server thread/INFO]: DjGuetta joined the game
+[23:09:35] [Server thread/INFO]: [Not Secure] <DjGuetta> hola
+[23:12:16] [Server thread/INFO]: DjGuetta has made the advancement [Monster Hunter]
+[23:12:20] [Server thread/INFO]: DjGuetta lost connection: Disconnected
+[23:12:20] [Server thread/INFO]: DjGuetta left the game
+[23:13:53] [Server thread/INFO]: Stopping the server
+[23:13:53] [Server thread/INFO]: Stopping server
+[23:13:53] [Server thread/INFO]: Saving players
+[23:13:53] [Server thread/INFO]: Saving worlds
+[23:13:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:13:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:13:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[23:13:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:13:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:13:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:13:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[23:13:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:13:54] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:13:54] [Server thread/INFO]: Unloading addons...
+[23:13:54] [Server thread/INFO]: Unloaded addons
+[23:13:54] [Server thread/INFO]: Unloading instance: net.dv8tion.jda.internal.JDAImpl@4d58043
+[23:13:54] [Server thread/INFO]: Unloading listener: de.erdbeerbaerlp.dcintegration.common.DiscordEventListener@b321e75
+[23:13:54] [Server thread/INFO]: Waiting for JDA to shut-down...
+[23:13:54] [Server thread/INFO]: JDA shut-down gracefully
