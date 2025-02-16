@@ -1,13 +1,13 @@
-[21:04:23] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.10
-[21:04:23] [ForkJoinPool-1-worker-3/WARN]: The mod "openblocks" contains invalid entries in its mod json:
+[22:57:51] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.10
+[22:57:51] [ForkJoinPool-1-worker-3/WARN]: The mod "openblocks" contains invalid entries in its mod json:
 - Unsupported root entry "client" at line 24 column 11
-[21:04:23] [ForkJoinPool-1-worker-3/WARN]: Mod tectonic uses the version 2.4.1b which isn't compatible with Loader's extended semantic version format (Could not parse version number component '1b'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[21:04:23] [main/WARN]: Warnings were found!
+[22:57:51] [ForkJoinPool-1-worker-1/WARN]: Mod tectonic uses the version 2.4.1b which isn't compatible with Loader's extended semantic version format (Could not parse version number component '1b'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[22:57:51] [main/WARN]: Warnings were found!
  - Mod 'Dynamic Lights' (dynamiclights) 1.8.3+mod recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
  - Mod 'Dynamic Lights' (dynamiclights) 1.8.3+mod recommends any version of modmenu-badges-lib, which is missing!
 	 - You should install any version of modmenu-badges-lib for the optimal experience.
-[21:04:23] [main/INFO]: Loading 159 mods:
+[22:57:51] [main/INFO]: Loading 163 mods:
 	- almanac 1.0.2
 	- amendments 1.20-1.2.18
 	   \-- mixinextras 0.4.1
@@ -42,6 +42,10 @@
 	        |-- com_teamresourceful_bytecodecs 1.0.2
 	        \-- com_teamresourceful_yabn 1.0.3
 	- cupboard 1.20.1-2.7
+	- dcintegration-fabric 3.0.7
+	   |-- de_erdbeerbaerlp_dcintegration_common 3.0.7
+	   |-- fabric-permissions-api-v0 0.2-SNAPSHOT
+	   \-- placeholder-api 2.1.2+1.20.1
 	- diagonalfences 8.1.5
 	   \-- diagonalblocks 8.0.6
 	- dynamiclights 1.8.3+mod
@@ -183,324 +187,184 @@
 	- yungsapi 1.20-Fabric-4.0.6
 	   |-- org_javassist_javassist 3.29.2-GA
 	   \-- org_reflections_reflections 0.10.2
-[21:04:24] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/servidor-minecraft/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[21:04:24] [main/INFO]: Compatibility level set to JAVA_17
-[21:04:24] [main/WARN]: Reference map 'graveyard-FABRIC-fabric-refmap.json' for graveyard-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:04:24] [main/WARN]: Reference map 'memoryleakfix-fabric-1.17+-fabric-refmap.json' for memoryleakfix-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:04:24] [main/INFO]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 64 options available, 0 override(s) found
-[21:04:24] [main/INFO]: Applying Nashorn fix
-[21:04:24] [main/WARN]: Reference map 'OctoLib-COMMON-common-refmap.json' for octolib.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:04:24] [main/WARN]: Reference map 'rechiseled.mixins.refmap.json' for rechiseled.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:04:24] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:04:25] [main/WARN]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing/farmersdelight/common/block/TomatoVineBlock)
-[21:04:25] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
-[21:04:25] [main/WARN]: Error loading class: io/wispforest/accessories/impl/AccessoriesEventHandler (java.lang.ClassNotFoundException: io/wispforest/accessories/impl/AccessoriesEventHandler)
-[21:04:25] [main/WARN]: @Mixin target io.wispforest.accessories.impl.AccessoriesEventHandler was not found travelersbackpack.mixins.json:AccessoriesEventHandlerMixin from mod travelersbackpack
-[21:04:25] [main/INFO]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
-[21:04:25] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
-[21:04:25] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[21:04:25] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[21:04:28] [main/INFO]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[21:04:28] [main/INFO]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[21:04:31] [main/INFO]: Vanilla bootstrap took 5196 milliseconds
-[21:04:31] [main/INFO]: Loaded config for: cupboard.json
-[21:04:31] [main/INFO]: Loaded config amendments-common.json
-[21:04:32] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[21:04:32] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[21:04:32] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[21:04:32] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[21:04:32] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[21:04:32] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[21:04:32] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[21:04:32] [main/INFO]: Better Archeology says Hello
-[21:04:32] [main/INFO]: Registering Items from betterarcheology
-[21:04:32] [main/INFO]: Registering Blocks from betterarcheology
-[21:04:32] [main/INFO]: ModEntityTypes of betterarcheology registered.
-[21:04:32] [main/INFO]: Registering JEI Recipe Serializers for betterarcheology
-[21:04:32] [main/INFO]: Registering Enchantments for betterarcheology
-[21:04:32] [main/INFO]: Brutal bosses initialized
-[21:04:32] [main/INFO]: Constructing common components for diagonalblocks:main
-[21:04:32] [main/INFO]: Constructing common components for diagonalfences:main
-[21:04:32] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 69ms
-[21:04:32] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 63ms
-[21:04:32] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 116ms
-[21:04:32] [main/INFO]: [Dynamic Lights] MidnightLib detected!
-[21:04:32] [main/INFO]: [Dynamic Lights] Registering server started event...
-[21:04:32] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
-[21:04:32] [main/INFO]: Constructing common components for easyanvils:main
-[21:04:32] [main/INFO]: Constructing common components for easymagic:main
-[21:04:32] [main/INFO]: ExpandAbility here, who dis?
-[21:04:33] [main/INFO]: Bypassed Mojang DFU
-[21:04:33] [main/INFO]: Instantiating Mojang DFU
-[21:04:33] [main/ERROR]: No data fixer registered for anomaly
-[21:04:34] [main/INFO]: Registered JSON trade offer adapter.
-[21:04:34] [main/INFO]: Initializing ServerSide Packet Registries
-[21:04:34] [main/INFO]: Initialize mod Library Ferret
-[21:04:34] [main/INFO]: Initialized mod Library Ferret
-[21:04:34] [main/INFO]: Giving mobs a fresh coat of paint...
-[21:04:34] [main/INFO]: [STDOUT]: All 1 have been set properly
-[21:04:34] [main/INFO]: Constructing common components for puzzleslib:main
-[21:04:35] [main/INFO]: Loaded config supplementaries-common.json
-[21:04:35] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[21:04:35] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[21:04:35] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[21:04:35] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[21:04:35] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[21:04:35] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[21:04:35] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[21:04:35] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
-[21:04:35] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
-[21:04:35] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
-[21:04:35] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
-[21:04:35] [main/INFO]: Reflections took 42 ms to scan 1 urls, producing 1 keys and 4 values
-[21:04:35] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 4 values
-[21:04:36] [main/INFO]: Initialized block sets in 21ms
-[21:04:36] [main/INFO]: Loaded config moonlight-common.json
-[21:04:36] [main/INFO]: Initialized color sets in 75ms
-[21:04:36] [main/INFO]: Finished mod setup in: [0, 1, 0, 1, 0, 0, 30, 6, 1] ms
-[21:04:36] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:04:36] [main/INFO]: Found new data pack Supplementaries Generated Pack, loading it automatically
-[21:04:36] [main/INFO]: Found new data pack tectonic/terratonic, loading it automatically
-[21:04:36] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 32 ms
-[21:04:39] [Worker-Main-3/ERROR]: Couldn't load tag supplementaries:lunch_basket_blacklist as it is missing following references: potionbundles:potion_bundle (from fabric)
-[21:04:41] [main/INFO]: Loaded 10 recipes
-[21:04:42] [main/ERROR]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
-[21:04:42] [main/INFO]: Loaded 2176 advancements
-[21:04:42] [main/INFO]: Loaded boss variant for: minecraft:drowned
-[21:04:42] [main/INFO]: Loaded boss variant for: minecraft:iron_golem
-[21:04:42] [main/INFO]: Loaded boss variant for: minecraft:snow_golem
-[21:04:42] [main/INFO]: Loaded boss variant for: minecraft:zombie
-[21:04:42] [main/INFO]: Loaded boss variant for: minecraft:skeleton
-[21:04:42] [main/INFO]: Loaded boss variant for: minecraft:pillager
-[21:04:42] [main/INFO]: Loaded boss variant for: minecraft:vex
-[21:04:42] [main/INFO]: Loaded boss variant for: minecraft:evoker
-[21:04:42] [main/INFO]: Loaded boss variant for: minecraft:zombie
-[21:04:42] [main/INFO]: Loaded boss variant for: minecraft:vindicator
-[21:04:42] [main/INFO]: Loaded boss variant for: minecraft:wither_skeleton
-[21:04:42] [main/INFO]: Loaded boss variant for: minecraft:wither_skeleton
-[21:04:42] [main/INFO]: Loaded boss variant for: minecraft:cave_spider
-[21:04:42] [main/INFO]: Loaded boss variant for: minecraft:zombie
-[21:04:42] [main/INFO]: Loaded boss variant for: minecraft:husk
-[21:04:42] [main/INFO]: Loaded boss variant for: minecraft:evoker
-[21:04:42] [main/INFO]: Loaded boss variant for: minecraft:wandering_trader
-[21:04:42] [main/INFO]: Loaded boss variant for: minecraft:guardian
-[21:04:42] [main/INFO]: Loaded boss variant for: minecraft:vindicator
-[21:04:42] [main/INFO]: Loaded boss variant for: minecraft:shulker
-[21:04:42] [main/INFO]: Loaded boss variant for: minecraft:zoglin
-[21:04:42] [main/INFO]: Loaded boss variant for: minecraft:chicken
-[21:04:42] [main/INFO]: Loaded boss variant for: minecraft:blaze
-[21:04:42] [main/INFO]: Loaded boss variant for: minecraft:witch
-[21:04:42] [main/INFO]: Loaded boss variant for: minecraft:phantom
-[21:04:42] [main/INFO]: Loaded boss variant for: minecraft:mooshroom
-[21:04:42] [main/INFO]: Loaded boss variant for: minecraft:rabbit
-[21:04:42] [main/INFO]: Loaded boss variant for: minecraft:piglin_brute
-[21:04:42] [main/INFO]: Loaded boss variant for: minecraft:ghast
-[21:04:42] [main/INFO]: Loaded boss variant for: minecraft:stray
-[21:04:42] [main/INFO]: Reloading config...
-[21:04:42] [main/INFO]: Loaded 44 chiseling recipes
-[21:04:42] [main/INFO]: Loaded 27 flute songs
-[21:04:42] [main/INFO]: Applied 7 data villager trades
-[21:04:42] [main/INFO]: Finished additional setup in 0 ms
-[21:04:43] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[21:04:43] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[21:04:43] [main/INFO]: Applied 3505 biome modifications to 241 of 241 new biomes in 74.27 ms
-[21:04:43] [Server thread/WARN]: Configuration file ./config/easyanvils-server.toml is not correct. Correcting
-[21:04:43] [Server thread/WARN]: Incorrect key miscellaneous was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21:04:43] [Server thread/WARN]: Incorrect key miscellaneous.anvil_break_chance was corrected from null to its default, 0.05. 
-[21:04:43] [Server thread/WARN]: Incorrect key miscellaneous.risk_free_anvil_renaming was corrected from null to its default, true. 
-[21:04:43] [Server thread/WARN]: Incorrect key miscellaneous.edit_name_tags_no_anvil was corrected from null to its default, true. 
-[21:04:43] [Server thread/WARN]: Incorrect key miscellaneous.renaming_supports_formatting was corrected from null to its default, true. 
-[21:04:43] [Server thread/WARN]: Incorrect key miscellaneous.anvil_repairing was corrected from null to its default, true. 
-[21:04:43] [Server thread/WARN]: Incorrect key costs was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21:04:43] [Server thread/WARN]: Incorrect key costs.rare_enchantment_multiplier was corrected from null to its default, 4. 
-[21:04:43] [Server thread/WARN]: Incorrect key costs.repair_with_other_item_cost was corrected from null to its default, 2. 
-[21:04:43] [Server thread/WARN]: Incorrect key costs.common_enchantment_multiplier was corrected from null to its default, 1. 
-[21:04:43] [Server thread/WARN]: Incorrect key costs.very_rare_enchantment_multiplier was corrected from null to its default, 8. 
-[21:04:43] [Server thread/WARN]: Incorrect key costs.uncommon_enchantment_multiplier was corrected from null to its default, 2. 
-[21:04:43] [Server thread/WARN]: Incorrect key costs.halved_book_costs was corrected from null to its default, true. 
-[21:04:43] [Server thread/WARN]: Incorrect key costs.repair_with_material_unit_cost was corrected from null to its default, 1. 
-[21:04:43] [Server thread/WARN]: Incorrect key costs.too_expensive_limit was corrected from null to its default, -1. 
-[21:04:43] [Server thread/WARN]: Incorrect key costs.free_renames was corrected from null to its default, ALL_ITEMS. 
-[21:04:43] [Server thread/WARN]: Incorrect key prior_work_penalty was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21:04:43] [Server thread/WARN]: Incorrect key prior_work_penalty.rename_and_repair_costs was corrected from null to its default, FIXED. 
-[21:04:43] [Server thread/WARN]: Incorrect key prior_work_penalty.prior_work_penalty was corrected from null to its default, FIXED. 
-[21:04:43] [Server thread/WARN]: Incorrect key prior_work_penalty.penalty_free_renames_and_repairs was corrected from null to its default, true. 
-[21:04:43] [Server thread/WARN]: Incorrect key prior_work_penalty.prior_work_penalty_constant was corrected from null to its default, 4. 
-[21:04:43] [Server thread/INFO]: Loading server config for easyanvils
-[21:04:43] [Thread-5/INFO]: Reloading server config for easyanvils
-[21:04:43] [Server thread/WARN]: Configuration file ./config/easymagic-server.toml is not correct. Correcting
-[21:04:43] [Server thread/WARN]: Incorrect key max_enchanting_power was corrected from null to its default, 15. 
-[21:04:43] [Server thread/WARN]: Incorrect key reroll_enchantments was corrected from null to its default, true. 
-[21:04:43] [Server thread/WARN]: Incorrect key lenient_bookshelves was corrected from null to its default, true. 
-[21:04:43] [Server thread/WARN]: Incorrect key reroll_catalyst_cost was corrected from null to its default, 1. 
-[21:04:43] [Server thread/WARN]: Incorrect key enchantment_hint was corrected from null to its default, SINGLE. 
-[21:04:43] [Thread-5/INFO]: Reloading server config for easyanvils
-[21:04:43] [Server thread/WARN]: Incorrect key chiseled_bookshelf_enchanting_power was corrected from null to its default, FACING. 
-[21:04:43] [Server thread/WARN]: Incorrect key dedicated_reroll_catalyst was corrected from null to its default, false. 
-[21:04:43] [Server thread/WARN]: Incorrect key reroll_experience_points_cost was corrected from null to its default, 5. 
-[21:04:43] [Thread-5/INFO]: Reloading server config for easymagic
-[21:04:43] [Server thread/INFO]: Loading server config for easymagic
-[21:04:43] [Thread-5/INFO]: Reloading server config for easymagic
-[21:04:43] [Thread-5/INFO]: Reloading server config for easymagic
-[21:04:43] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[21:04:43] [Server thread/INFO]: Loading properties
-[21:04:43] [Server thread/INFO]: Default game type: SURVIVAL
-[21:04:43] [Server thread/INFO]: Generating keypair
-[21:04:44] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:04:44] [Server thread/INFO]: Using epoll channel type
-[21:04:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:04:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:04:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:04:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:04:44] [Server thread/INFO]: Preparing level "world"
-[21:04:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:05:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:05:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:05:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:05:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:05:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:05:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:05:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:05:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:05:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:05:04] [Worker-Main-1/WARN]: Config brutalbosses.json not found, recreating default
-[21:05:04] [Worker-Main-1/INFO]: Loaded config for: brutalbosses.json
-[21:05:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:05:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:05:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:05:05] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[21:05:06] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[21:05:06] [Worker-Main-3/INFO]: Preparing spawn area: 1%
-[21:05:07] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[21:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[21:05:08] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[21:05:08] [Worker-Main-2/INFO]: Preparing spawn area: 3%
-[21:05:09] [Worker-Main-1/INFO]: Preparing spawn area: 4%
-[21:05:09] [Worker-Main-3/INFO]: Preparing spawn area: 4%
-[21:05:10] [Worker-Main-3/INFO]: Preparing spawn area: 4%
-[21:05:10] [Worker-Main-2/INFO]: Preparing spawn area: 6%
-[21:05:11] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[21:05:11] [Worker-Main-2/INFO]: Preparing spawn area: 8%
-[21:05:12] [Worker-Main-3/INFO]: Preparing spawn area: 8%
-[21:05:12] [Worker-Main-1/INFO]: Preparing spawn area: 9%
-[21:05:13] [Worker-Main-2/INFO]: Preparing spawn area: 9%
-[21:05:13] [Worker-Main-1/INFO]: Preparing spawn area: 10%
-[21:05:14] [Worker-Main-1/INFO]: Preparing spawn area: 11%
-[21:05:14] [Worker-Main-1/INFO]: Preparing spawn area: 11%
-[21:05:15] [Worker-Main-1/INFO]: Preparing spawn area: 13%
-[21:05:15] [Worker-Main-3/INFO]: Preparing spawn area: 15%
-[21:05:16] [Worker-Main-3/INFO]: Preparing spawn area: 15%
-[21:05:16] [Worker-Main-3/INFO]: Preparing spawn area: 15%
-[21:05:17] [Worker-Main-1/INFO]: Preparing spawn area: 17%
-[21:05:17] [Worker-Main-3/INFO]: Preparing spawn area: 18%
-[21:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 19%
-[21:05:18] [Worker-Main-2/INFO]: Preparing spawn area: 20%
-[21:05:19] [Worker-Main-1/INFO]: Preparing spawn area: 22%
-[21:05:19] [Worker-Main-1/INFO]: Preparing spawn area: 22%
-[21:05:20] [Worker-Main-3/INFO]: Preparing spawn area: 23%
-[21:05:20] [Worker-Main-1/INFO]: Preparing spawn area: 24%
-[21:05:21] [Worker-Main-2/INFO]: Preparing spawn area: 24%
-[21:05:21] [Worker-Main-2/INFO]: Preparing spawn area: 25%
-[21:05:22] [Worker-Main-3/INFO]: Preparing spawn area: 27%
-[21:05:22] [Worker-Main-3/INFO]: Preparing spawn area: 28%
-[21:05:23] [Worker-Main-3/INFO]: Preparing spawn area: 30%
-[21:05:23] [Worker-Main-2/INFO]: Preparing spawn area: 31%
-[21:05:24] [Worker-Main-1/INFO]: Preparing spawn area: 31%
-[21:05:24] [Worker-Main-1/INFO]: Preparing spawn area: 32%
-[21:05:25] [Worker-Main-1/INFO]: Preparing spawn area: 33%
-[21:05:25] [Worker-Main-3/INFO]: Preparing spawn area: 34%
-[21:05:26] [Worker-Main-1/INFO]: Preparing spawn area: 34%
-[21:05:26] [Worker-Main-3/INFO]: Preparing spawn area: 36%
-[21:05:27] [Worker-Main-1/INFO]: Preparing spawn area: 37%
-[21:05:27] [Worker-Main-2/INFO]: Preparing spawn area: 38%
-[21:05:28] [Worker-Main-2/INFO]: Preparing spawn area: 40%
-[21:05:28] [Worker-Main-2/INFO]: Preparing spawn area: 41%
-[21:05:29] [Worker-Main-3/INFO]: Preparing spawn area: 42%
-[21:05:29] [Worker-Main-3/INFO]: Preparing spawn area: 43%
-[21:05:30] [Worker-Main-1/INFO]: Preparing spawn area: 44%
-[21:05:30] [Worker-Main-1/INFO]: Preparing spawn area: 45%
-[21:05:31] [Worker-Main-2/INFO]: Preparing spawn area: 47%
-[21:05:31] [Worker-Main-3/INFO]: Preparing spawn area: 48%
-[21:05:32] [Worker-Main-2/INFO]: Preparing spawn area: 50%
-[21:05:32] [Worker-Main-2/INFO]: Preparing spawn area: 52%
-[21:05:33] [Worker-Main-2/INFO]: Preparing spawn area: 54%
-[21:05:33] [Worker-Main-2/INFO]: Preparing spawn area: 54%
-[21:05:34] [Worker-Main-2/INFO]: Preparing spawn area: 55%
-[21:05:34] [Worker-Main-2/INFO]: Preparing spawn area: 56%
-[21:05:35] [Worker-Main-3/INFO]: Preparing spawn area: 58%
-[21:05:35] [Worker-Main-3/INFO]: Preparing spawn area: 59%
-[21:05:36] [Worker-Main-2/INFO]: Preparing spawn area: 60%
-[21:05:36] [Worker-Main-3/INFO]: Preparing spawn area: 61%
-[21:05:37] [Worker-Main-1/INFO]: Preparing spawn area: 61%
-[21:05:37] [Worker-Main-1/INFO]: Preparing spawn area: 64%
-[21:05:38] [Worker-Main-3/INFO]: Preparing spawn area: 64%
-[21:05:38] [Worker-Main-3/INFO]: Preparing spawn area: 66%
-[21:05:39] [Worker-Main-3/INFO]: Preparing spawn area: 68%
-[21:05:39] [Worker-Main-2/INFO]: Preparing spawn area: 69%
-[21:05:40] [Worker-Main-2/INFO]: Preparing spawn area: 70%
-[21:05:40] [Worker-Main-3/INFO]: Preparing spawn area: 71%
-[21:05:41] [Worker-Main-1/INFO]: Preparing spawn area: 72%
-[21:05:41] [Worker-Main-1/INFO]: Preparing spawn area: 73%
-[21:05:42] [Worker-Main-2/INFO]: Preparing spawn area: 75%
-[21:05:42] [Worker-Main-1/INFO]: Preparing spawn area: 77%
-[21:05:43] [Worker-Main-2/INFO]: Preparing spawn area: 77%
-[21:05:43] [Worker-Main-1/INFO]: Preparing spawn area: 78%
-[21:05:44] [Worker-Main-1/INFO]: Preparing spawn area: 79%
-[21:05:44] [Worker-Main-3/INFO]: Preparing spawn area: 82%
-[21:05:45] [Worker-Main-1/INFO]: Preparing spawn area: 83%
-[21:05:45] [Worker-Main-1/INFO]: Preparing spawn area: 83%
-[21:05:46] [Worker-Main-2/INFO]: Preparing spawn area: 84%
-[21:05:46] [Worker-Main-3/INFO]: Preparing spawn area: 86%
-[21:05:47] [Worker-Main-2/INFO]: Preparing spawn area: 86%
-[21:05:47] [Worker-Main-1/INFO]: Preparing spawn area: 87%
-[21:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 89%
-[21:05:48] [Worker-Main-3/INFO]: Preparing spawn area: 89%
-[21:05:49] [Worker-Main-3/INFO]: Preparing spawn area: 92%
-[21:05:49] [Worker-Main-2/INFO]: Preparing spawn area: 94%
-[21:05:50] [Worker-Main-2/INFO]: Preparing spawn area: 95%
-[21:05:50] [Worker-Main-1/INFO]: Preparing spawn area: 96%
-[21:05:51] [Server thread/INFO]: Time elapsed: 51467 ms
-[21:05:51] [Server thread/INFO]: Done (66.892s)! For help, type "help"
-[21:05:51] [Server thread/WARN]: Dedicated server took 88.415 seconds to load
-[21:05:51] [Server thread/INFO]: [Dynamic Lights] Sending global config to server...
-[21:05:51] [Server thread/INFO]: Created new objective [ts.dl.settings]
-[21:05:51] [Server thread/INFO]: [STDOUT]: PREPARING FOR RELOAD
-[21:05:51] [Server thread/INFO]: Start loading plugin from Jade
-[21:05:51] [Server thread/INFO]: Start loading plugin from Jade
-[21:05:51] [Server thread/INFO]: Start loading plugin from Jade
-[21:05:51] [Server thread/INFO]: Start loading plugin from Supplementaries
-[21:05:51] [Server thread/INFO]: Start loading plugin from HT's TreeChop
-[21:05:51] [Server thread/INFO]: Start loading plugin from Waystones
-[21:05:51] [Server thread/INFO]: global (FirstLoaded) Setting config file to version "5.10.3": journeymap.server.global.config
-[21:05:51] [Server thread/INFO]: global (Valid) Creating config file: ./journeymap/server/5.10/journeymap.server.global.config
-[21:05:51] [Server thread/INFO]: default (FirstLoaded) Setting config file to version "5.10.3": journeymap.server.default.config
-[21:05:51] [Server thread/INFO]: default (Valid) Creating config file: ./journeymap/server/5.10/journeymap.server.default.config
-[21:05:51] [Server thread/INFO]: minecraft~overworld (Initialized) Setting config file to version "5.10.3": journeymap.server.minecraft~overworld.config
-[21:05:51] [Server thread/INFO]: minecraft~overworld (Valid) Creating config file: ./journeymap/server/5.10/journeymap.server.minecraft~overworld.config
-[21:05:51] [Server thread/INFO]: minecraft~the_nether (Initialized) Setting config file to version "5.10.3": journeymap.server.minecraft~the_nether.config
-[21:05:51] [Server thread/INFO]: minecraft~the_nether (Valid) Creating config file: ./journeymap/server/5.10/journeymap.server.minecraft~the_nether.config
-[21:05:51] [Server thread/INFO]: minecraft~the_end (Initialized) Setting config file to version "5.10.3": journeymap.server.minecraft~the_end.config
-[21:05:51] [Server thread/INFO]: minecraft~the_end (Valid) Creating config file: ./journeymap/server/5.10/journeymap.server.minecraft~the_end.config
-[21:05:51] [Server thread/INFO]: graveyard~past (Initialized) Setting config file to version "5.10.3": journeymap.server.graveyard~past.config
-[21:05:51] [Server thread/INFO]: graveyard~past (Valid) Creating config file: ./journeymap/server/5.10/journeymap.server.graveyard~past.config
-[21:05:52] [pool-4-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch]] from pos class_2338{x=-213, y=76, z=27}
-[21:05:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2467ms or 49 ticks behind
-[21:07:43] [Server thread/INFO]: DjGuetta[/100.70.165.9:65443] logged in with entity id 230 at (-162.5, 75.0, -49.5)
-[21:07:43] [Server thread/INFO]: Syncing config to DjGuetta (4f4dd9df-0d94-391d-986e-4c0c44220740)
-[21:07:43] [Server thread/INFO]: Loading config from file...
-[21:07:43] [Server thread/INFO]: DjGuetta joined the game
-[21:09:10] [Server thread/INFO]: DjGuetta lost connection: Disconnected
-[21:09:10] [Server thread/INFO]: DjGuetta left the game
-[21:09:23] [Server thread/INFO]: Stopping the server
-[21:09:24] [Server thread/INFO]: Stopping server
-[21:09:24] [Server thread/INFO]: Saving players
-[21:09:24] [Server thread/INFO]: Saving worlds
-[21:09:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:09:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21:09:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21:09:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
-[21:09:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:09:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:09:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:09:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (past): All chunks are saved
-[21:09:26] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:57:52] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/servidor-minecraft/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:57:52] [main/INFO]: Compatibility level set to JAVA_17
+[22:57:52] [main/WARN]: Reference map 'graveyard-FABRIC-fabric-refmap.json' for graveyard-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:57:52] [main/WARN]: Reference map 'memoryleakfix-fabric-1.17+-fabric-refmap.json' for memoryleakfix-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:57:52] [main/INFO]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 64 options available, 0 override(s) found
+[22:57:52] [main/INFO]: Applying Nashorn fix
+[22:57:52] [main/WARN]: Reference map 'OctoLib-COMMON-common-refmap.json' for octolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:57:52] [main/WARN]: Reference map 'rechiseled.mixins.refmap.json' for rechiseled.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:57:52] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:57:52] [main/WARN]: Error loading class: eu/pb4/styledchat/StyledChatUtils (java.lang.ClassNotFoundException: eu/pb4/styledchat/StyledChatUtils)
+[22:57:53] [main/WARN]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing/farmersdelight/common/block/TomatoVineBlock)
+[22:57:53] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
+[22:57:53] [main/WARN]: Error loading class: io/wispforest/accessories/impl/AccessoriesEventHandler (java.lang.ClassNotFoundException: io/wispforest/accessories/impl/AccessoriesEventHandler)
+[22:57:53] [main/WARN]: @Mixin target io.wispforest.accessories.impl.AccessoriesEventHandler was not found travelersbackpack.mixins.json:AccessoriesEventHandlerMixin from mod travelersbackpack
+[22:57:53] [main/INFO]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
+[22:57:53] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
+[22:57:53] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[22:57:53] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[22:57:55] [main/INFO]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[22:57:55] [main/INFO]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[22:57:58] [main/INFO]: Vanilla bootstrap took 4549 milliseconds
+[22:57:58] [main/INFO]: Loaded config for: cupboard.json
+[22:57:59] [main/INFO]: Loaded config amendments-common.json
+[22:57:59] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[22:57:59] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[22:57:59] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[22:57:59] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[22:57:59] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[22:57:59] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[22:57:59] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[22:57:59] [main/INFO]: Better Archeology says Hello
+[22:57:59] [main/INFO]: Registering Items from betterarcheology
+[22:57:59] [main/INFO]: Registering Blocks from betterarcheology
+[22:57:59] [main/INFO]: ModEntityTypes of betterarcheology registered.
+[22:57:59] [main/INFO]: Registering JEI Recipe Serializers for betterarcheology
+[22:57:59] [main/INFO]: Registering Enchantments for betterarcheology
+[22:57:59] [main/INFO]: Brutal bosses initialized
+[22:57:59] [main/INFO]: Constructing common components for diagonalblocks:main
+[22:57:59] [main/INFO]: Constructing common components for diagonalfences:main
+[22:57:59] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 96ms
+[22:57:59] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 58ms
+[22:58:00] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 117ms
+[22:58:00] [main/INFO]: [Dynamic Lights] MidnightLib detected!
+[22:58:00] [main/INFO]: [Dynamic Lights] Registering server started event...
+[22:58:00] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[22:58:00] [main/INFO]: Constructing common components for easyanvils:main
+[22:58:00] [main/INFO]: Constructing common components for easymagic:main
+[22:58:00] [main/INFO]: ExpandAbility here, who dis?
+[22:58:00] [main/INFO]: Bypassed Mojang DFU
+[22:58:00] [main/INFO]: Instantiating Mojang DFU
+[22:58:00] [main/ERROR]: No data fixer registered for anomaly
+[22:58:01] [main/INFO]: Registered JSON trade offer adapter.
+[22:58:01] [main/INFO]: Initializing ServerSide Packet Registries
+[22:58:01] [main/INFO]: Initialize mod Library Ferret
+[22:58:01] [main/INFO]: Initialized mod Library Ferret
+[22:58:01] [main/INFO]: Giving mobs a fresh coat of paint...
+[22:58:01] [main/INFO]: [STDOUT]: All 1 have been set properly
+[22:58:01] [main/INFO]: Constructing common components for puzzleslib:main
+[22:58:02] [main/INFO]: Loaded config supplementaries-common.json
+[22:58:02] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[22:58:02] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[22:58:02] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[22:58:02] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[22:58:02] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[22:58:02] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[22:58:02] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[22:58:02] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
+[22:58:02] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
+[22:58:02] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
+[22:58:02] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
+[22:58:02] [main/INFO]: Reflections took 50 ms to scan 1 urls, producing 1 keys and 4 values
+[22:58:02] [main/INFO]: Reflections took 12 ms to scan 1 urls, producing 1 keys and 4 values
+[22:58:03] [main/INFO]: Initialized block sets in 22ms
+[22:58:03] [main/INFO]: Loaded config moonlight-common.json
+[22:58:03] [main/INFO]: Initialized color sets in 60ms
+[22:58:03] [main/INFO]: Finished mod setup in: [0, 1, 0, 1, 0, 0, 20, 6, 1] ms
+[22:58:03] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:58:04] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 43 ms
+[22:58:06] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[22:58:07] [Worker-Main-1/ERROR]: Couldn't load tag supplementaries:lunch_basket_blacklist as it is missing following references: potionbundles:potion_bundle (from fabric)
+[22:58:08] [main/INFO]: Loaded 10 recipes
+[22:58:09] [main/ERROR]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
+[22:58:09] [main/INFO]: Loaded 2176 advancements
+[22:58:09] [main/INFO]: Loaded boss variant for: minecraft:drowned
+[22:58:09] [main/INFO]: Loaded boss variant for: minecraft:iron_golem
+[22:58:09] [main/INFO]: Loaded boss variant for: minecraft:snow_golem
+[22:58:09] [main/INFO]: Loaded boss variant for: minecraft:zombie
+[22:58:09] [main/INFO]: Loaded boss variant for: minecraft:skeleton
+[22:58:09] [main/INFO]: Loaded boss variant for: minecraft:pillager
+[22:58:09] [main/INFO]: Loaded boss variant for: minecraft:vex
+[22:58:09] [main/INFO]: Loaded boss variant for: minecraft:evoker
+[22:58:09] [main/INFO]: Loaded boss variant for: minecraft:zombie
+[22:58:09] [main/INFO]: Loaded boss variant for: minecraft:vindicator
+[22:58:09] [main/INFO]: Loaded boss variant for: minecraft:wither_skeleton
+[22:58:09] [main/INFO]: Loaded boss variant for: minecraft:wither_skeleton
+[22:58:09] [main/INFO]: Loaded boss variant for: minecraft:cave_spider
+[22:58:09] [main/INFO]: Loaded boss variant for: minecraft:zombie
+[22:58:09] [main/INFO]: Loaded boss variant for: minecraft:husk
+[22:58:09] [main/INFO]: Loaded boss variant for: minecraft:evoker
+[22:58:09] [main/INFO]: Loaded boss variant for: minecraft:wandering_trader
+[22:58:09] [main/INFO]: Loaded boss variant for: minecraft:guardian
+[22:58:09] [main/INFO]: Loaded boss variant for: minecraft:vindicator
+[22:58:09] [main/INFO]: Loaded boss variant for: minecraft:shulker
+[22:58:09] [main/INFO]: Loaded boss variant for: minecraft:zoglin
+[22:58:09] [main/INFO]: Loaded boss variant for: minecraft:chicken
+[22:58:09] [main/INFO]: Loaded boss variant for: minecraft:blaze
+[22:58:09] [main/INFO]: Loaded boss variant for: minecraft:witch
+[22:58:09] [main/INFO]: Loaded boss variant for: minecraft:phantom
+[22:58:09] [main/INFO]: Loaded boss variant for: minecraft:mooshroom
+[22:58:09] [main/INFO]: Loaded boss variant for: minecraft:rabbit
+[22:58:09] [main/INFO]: Loaded boss variant for: minecraft:piglin_brute
+[22:58:09] [main/INFO]: Loaded boss variant for: minecraft:ghast
+[22:58:09] [main/INFO]: Loaded boss variant for: minecraft:stray
+[22:58:09] [main/INFO]: Reloading config...
+[22:58:09] [main/INFO]: Loaded 44 chiseling recipes
+[22:58:09] [main/INFO]: Loaded 27 flute songs
+[22:58:09] [main/INFO]: Applied 7 data villager trades
+[22:58:09] [main/INFO]: Finished additional setup in 0 ms
+[22:58:10] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[22:58:10] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[22:58:10] [main/INFO]: Applied 3505 biome modifications to 241 of 241 new biomes in 87.09 ms
+[22:58:10] [Server thread/INFO]: Loading server config for easyanvils
+[22:58:10] [Thread-5/INFO]: Reloading server config for easyanvils
+[22:58:10] [Server thread/INFO]: Loading server config for easymagic
+[22:58:10] [Thread-5/INFO]: Reloading server config for easyanvils
+[22:58:10] [Server thread/INFO]: Waiting for JDA to initialize to send starting message... (max 5 seconds before skipping)
+[22:58:11] [DiscordIntegration Launch Thread/INFO]: Login Successful!
+[22:58:11] [JDA MainWS-WriteThread/INFO]: Connected to WebSocket
+[22:58:11] [JDA MainWS-ReadThread/INFO]: Finished Loading!
+[22:58:11] [DiscordIntegration Launch Thread/INFO]: Bot ready
+[22:58:11] [DiscordIntegration Launch Thread/INFO]: Loading DiscordIntegration Addons...
+[22:58:11] [DiscordIntegration Launch Thread/INFO]: Addon loading complete!
+[22:58:11] [DiscordIntegration Launch Thread/INFO]: Loading Linking Database...
+[22:58:11] [DiscordIntegration Launch Thread/INFO]: Linking Database initialized!
+[22:58:11] [DiscordIntegration Launch Thread/INFO]: LinkManager load | cache: []
+[22:58:13] [Server thread/INFO]: Finished registering! Registered 8 commands
+[22:58:13] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[22:58:13] [Server thread/INFO]: Loading properties
+[22:58:13] [Server thread/INFO]: Default game type: SURVIVAL
+[22:58:13] [Server thread/INFO]: Generating keypair
+[22:58:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:58:13] [Server thread/INFO]: Using epoll channel type
+[22:58:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:58:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:58:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:58:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:58:14] [Server thread/INFO]: Preparing level "world"
+[22:58:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:58:15] [Server thread/INFO]: Preparing spawn area: 0%
+[22:58:15] [Server thread/INFO]: Preparing spawn area: 0%
+[22:58:15] [Server thread/INFO]: Preparing spawn area: 0%
+[22:58:16] [Server thread/INFO]: Preparing spawn area: 26%
+[22:58:16] [Server thread/INFO]: Loaded config for: brutalbosses.json
+[22:58:16] [Server thread/INFO]: Time elapsed: 1925 ms
+[22:58:16] [Server thread/INFO]: Done (2.400s)! For help, type "help"
+[22:58:16] [Server thread/WARN]: Dedicated server took 26.126 seconds to load
+[22:58:16] [Server thread/INFO]: [Dynamic Lights] Sending global config to server...
+[22:58:16] [Server thread/INFO]: [STDOUT]: PREPARING FOR RELOAD
+[22:58:16] [Server thread/INFO]: Start loading plugin from Jade
+[22:58:16] [Server thread/INFO]: Start loading plugin from Jade
+[22:58:16] [Server thread/INFO]: Start loading plugin from Jade
+[22:58:16] [Server thread/INFO]: Start loading plugin from Supplementaries
+[22:58:16] [Server thread/INFO]: Start loading plugin from HT's TreeChop
+[22:58:16] [Server thread/INFO]: Start loading plugin from Waystones
+[22:58:16] [Server thread/INFO]: Started
+[22:58:17] [DiscordIntegration-Core WorkerThread/INFO]: Regenerating local commands...
+[22:58:17] [DiscordIntegration-Core WorkerThread/INFO]: No need to regenerate global commands
+[22:58:17] [DiscordIntegration-Core WorkerThread/INFO]: Added command list with ID 1272312338409586750
+[22:58:17] [DiscordIntegration-Core WorkerThread/INFO]: Added command uptime with ID 1272312338409586752
+[22:58:17] [DiscordIntegration-Core WorkerThread/INFO]: Added command settings with ID 1272312338409586753
+[22:58:17] [DiscordIntegration-Core WorkerThread/INFO]: Added command linkcheck with ID 1272312338409586754
+[22:58:17] [DiscordIntegration-Core WorkerThread/INFO]: Added command link with ID 1272312338409586755
+[22:58:17] [DiscordIntegration-Core WorkerThread/INFO]: Added command kick with ID 1272312338409586756
+[22:58:17] [DiscordIntegration-Core WorkerThread/INFO]: Added command stop with ID 1272312338409586757
+[22:58:17] [DiscordIntegration-Core WorkerThread/INFO]: Added command kill with ID 1272312338409586759
+[23:06:08] [Server thread/INFO]: DjGuetta[/100.70.165.9:65224] logged in with entity id 242 at (-209.87036713050514, 75.0, -24.572603737564645)
+[23:06:08] [Server thread/INFO]: Syncing config to DjGuetta (4f4dd9df-0d94-391d-986e-4c0c44220740)
+[23:06:08] [Server thread/INFO]: Loading config from file...
+[23:06:09] [Server thread/INFO]: DjGuetta joined the game
+[23:06:38] [Server thread/INFO]: DjGuetta lost connection: Timed out
+[23:06:38] [Server thread/INFO]: DjGuetta left the game
