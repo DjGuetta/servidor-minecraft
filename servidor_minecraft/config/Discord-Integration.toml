@@ -210,7 +210,7 @@ charBlacklist = [  "࿕", "࿖"  ]
   serverChannelID = "1272005345652379682"
   # Custom channel ID for death messages
   # Leave 'default' to use default channel
-  deathsChannelID = "1272005345652379682"
+  deathsChannelID = "1271156832517357659"
   # Custom channel for for in-game messages
   # Leave 'default' to use default channel
   chatOutputChannelID = "1272004328080806040"
