@@ -1135,6 +1135,7 @@
     "criteria": {
       "cooked_porkchop": "2025-02-18 05:05:57 +0000",
       "cooked_mutton": "2025-02-22 20:01:29 +0000",
+      "apple": "2025-02-22 20:04:21 +0000",
       "carrot": "2025-02-18 04:48:25 +0000"
     },
     "done": false
@@ -1844,6 +1845,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-22 20:09:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
       "has_yellow_terracotta": "2025-02-22 19:57:45 +0000"
@@ -1871,6 +1878,12 @@
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2025-02-22 19:57:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-22 20:09:02 +0000"
     },
     "done": true
   },
@@ -1916,9 +1929,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-22 20:08:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2025-02-22 19:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-22 20:09:02 +0000"
     },
     "done": true
   },
