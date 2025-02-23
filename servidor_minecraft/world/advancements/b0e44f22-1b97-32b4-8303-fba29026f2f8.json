@@ -1778,6 +1778,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2025-02-23 02:00:44 +0000",
       "minecraft:beach": "2025-02-17 05:04:29 +0000",
       "minecraft:stony_peaks": "2025-02-17 05:36:35 +0000",
       "minecraft:lukewarm_ocean": "2025-02-17 05:25:19 +0000",
@@ -3021,6 +3022,24 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2025-02-22 20:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-02-23 02:00:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-23 02:00:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-02-23 02:00:22 +0000"
     },
     "done": true
   },
