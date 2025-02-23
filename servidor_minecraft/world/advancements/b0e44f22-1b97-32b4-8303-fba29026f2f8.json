@@ -1252,6 +1252,7 @@
       "minecraft:creeper": "2025-02-19 01:29:55 +0000",
       "minecraft:enderman": "2025-02-19 03:45:42 +0000",
       "minecraft:zombie": "2025-02-17 04:34:56 +0000",
+      "minecraft:drowned": "2025-02-23 06:09:06 +0000",
       "minecraft:zombie_villager": "2025-02-19 03:05:09 +0000"
     },
     "done": false
@@ -3221,6 +3222,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-02-23 05:51:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-02-23 05:21:06 +0000"
@@ -3293,9 +3300,21 @@
     },
     "done": true
   },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2025-02-23 05:51:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-02-23 05:21:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/globe": {
+    "criteria": {
+      "has_globe_sepia": "2025-02-23 05:51:01 +0000"
     },
     "done": true
   },
