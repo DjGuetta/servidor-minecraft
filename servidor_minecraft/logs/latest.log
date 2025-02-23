@@ -2955,3 +2955,39 @@ java.lang.ClassCastException: class net.minecraft.class_1739 cannot be cast to c
 [06:30:41] [Server thread/INFO]: Loading config from file...
 [06:30:41] [Server thread/INFO]: djgerad joined the game
 [06:30:42] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player djgerad. Claiming: GRAVE / Robbing: INVENTORY
+[06:31:16] [Server thread/WARN]: djgerad moved too quickly! 0.0,-20.0,0.0
+[06:31:17] [Server thread/WARN]: djgerad moved too quickly! 0.0,-21.0,0.0
+[06:31:17] [Server thread/WARN]: djgerad moved too quickly! 0.0,-21.0,0.0
+[06:31:18] [Server thread/WARN]: djgerad moved too quickly! 0.0,-20.0,0.0
+[06:32:09] [Server thread/INFO]: Santialpz has made the advancement [Well prepared]
+[06:34:40] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[06:34:40] [Netty Epoll Server IO #5/ERROR]: Twilight Forest: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[06:34:41] [Server thread/INFO]: DjGuetta11 lost connection: Disconnected
+[06:34:41] [Server thread/INFO]: DjGuetta11 left the game
+[06:35:02] [Server thread/INFO]: DjTwistfly was turned into KFC by Fire Dragon
+[06:35:14] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-20.0,0.0
+[06:35:14] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-21.0,0.0
+[06:35:14] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-21.0,0.0
+[06:35:14] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-20.0,0.0
+[06:35:36] [Server thread/INFO]: djgerad lost connection: Disconnected
+[06:35:36] [Server thread/INFO]: djgerad left the game
+[06:36:11] [Server thread/INFO]: DjGuetta11[/100.71.91.78:63362] logged in with entity id 341621 at (-1094.300000011921, 113.0, -405.5645304026398)
+[06:36:11] [Server thread/INFO]: Syncing config to DjGuetta11 (02ab1a57-0edd-3713-9f58-15ec834d0062)
+[06:36:11] [Server thread/INFO]: Loading config from file...
+[06:36:11] [Server thread/INFO]: DjGuetta11 joined the game
+[06:36:13] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player DjGuetta11. Claiming: GRAVE / Robbing: INVENTORY
+[06:36:15] [Server thread/INFO]: Santialpz has made the advancement [Iron, but dark]
+[06:37:05] [Server thread/INFO]: Santialpz has made the advancement [Ice Bucket Challenge]
+[06:37:41] [Server thread/INFO]: Santialpz has reached the goal [You Need a Mint]
+[06:37:49] [Server thread/INFO]: DjTwistfly claimed a grave belonging to DjTwistfly at -1098, 81, -357, minecraft:overworld
+[06:40:56] [Server thread/INFO]: DjGuetta11 has made the advancement [Who is Cutting Onions?]
+[06:41:33] [Server thread/INFO]: Named entity class_1593['Chrz the quick'/346742, l='ServerLevel[world]', x=-1107.90, y=178.71, z=-605.61] died: Chrz the quick was slain by DjTwistfly
+[06:44:22] [Server thread/INFO]: DjTwistfly was turned into KFC by Fire Dragon
+[06:46:05] [Server thread/ERROR]: Grave could not be replaced at X: -1026, Y: 154, Z: -642 / minecraft:overworld
+[06:46:05] [Server thread/INFO]: DjTwistfly claimed a grave belonging to DjTwistfly at -1026, 154, -642, minecraft:overworld
+[06:48:48] [Server thread/INFO]: DjGuetta11 lost connection: Disconnected
+[06:48:48] [Server thread/INFO]: DjGuetta11 left the game
+[06:50:23] [Server thread/INFO]: DjTwistfly lost connection: Disconnected
+[06:50:23] [Server thread/INFO]: DjTwistfly left the game
