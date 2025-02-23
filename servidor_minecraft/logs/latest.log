@@ -757,3 +757,17 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [23:30:20] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player MARAVILLA. Claiming: GRAVE / Robbing: INVENTORY
 [23:30:20] [Server thread/INFO]: MARAVILLA lost connection: Disconnected
 [23:30:20] [Server thread/INFO]: MARAVILLA left the game
+[23:35:43] [Server thread/INFO]: kevin2353hh[/100.95.11.122:53126] logged in with entity id 3278 at (-162.13312578969678, 76.0, -62.23895150941418)
+[23:35:43] [Server thread/INFO]: Syncing config to kevin2353hh (7447ad97-9fc9-3db9-9805-556bdd2bcbb4)
+[23:35:43] [Server thread/INFO]: Loading config from file...
+[23:35:43] [Server thread/INFO]: kevin2353hh joined the game
+[23:35:44] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player kevin2353hh. Claiming: GRAVE / Robbing: INVENTORY
+[23:40:39] [Server thread/INFO]: kevin2353hh has made the advancement [Stone Age]
+[23:41:04] [Server thread/INFO]: kevin2353hh lost connection: Disconnected
+[23:41:04] [Server thread/INFO]: kevin2353hh left the game
+[23:41:07] [Server thread/INFO]: kevin2353hh[/100.95.11.122:53135] logged in with entity id 5615 at (-179.30461830186516, 74.0, -72.07075366328584)
+[23:41:07] [Server thread/INFO]: Syncing config to kevin2353hh (7447ad97-9fc9-3db9-9805-556bdd2bcbb4)
+[23:41:07] [Server thread/INFO]: Loading config from file...
+[23:41:08] [Server thread/INFO]: kevin2353hh joined the game
+[23:41:08] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player kevin2353hh. Claiming: GRAVE / Robbing: INVENTORY
+[23:41:59] [Server thread/INFO]: kevin2353hh has made the advancement [Getting an Upgrade]
