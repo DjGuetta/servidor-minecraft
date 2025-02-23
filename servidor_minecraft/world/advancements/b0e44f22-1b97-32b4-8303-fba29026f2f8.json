@@ -500,6 +500,7 @@
       "mutton": "2025-02-17 04:26:21 +0000",
       "bread": "2025-02-19 02:31:51 +0000",
       "suspicious_stew": "2025-02-22 20:24:49 +0000",
+      "melon_slice": "2025-02-23 02:07:21 +0000",
       "cooked_rabbit": "2025-02-19 02:50:44 +0000",
       "cooked_chicken": "2025-02-17 04:40:48 +0000"
     },
@@ -1785,6 +1786,7 @@
       "minecraft:river": "2025-02-17 05:03:51 +0000",
       "minecraft:stony_shore": "2025-02-17 05:28:03 +0000",
       "minecraft:ocean": "2025-02-17 05:19:04 +0000",
+      "minecraft:savanna": "2025-02-23 02:03:54 +0000",
       "minecraft:plains": "2025-02-22 20:06:09 +0000"
     },
     "done": false
@@ -3025,9 +3027,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-02-23 02:04:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-02-23 02:04:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-02-23 02:00:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-02-23 02:06:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-02-23 02:06:22 +0000"
     },
     "done": true
   },
@@ -3037,9 +3063,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-02-23 02:06:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-02-23 02:00:22 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-02-23 02:06:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-02-23 02:04:54 +0000"
     },
     "done": true
   },

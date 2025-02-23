@@ -46,6 +46,7 @@
       "woodland": "2025-02-17 05:17:50 +0000",
       "scrubland": "2025-02-17 03:46:57 +0000",
       "bayou": "2025-02-17 03:47:07 +0000",
+      "jacaranda_glade": "2025-02-23 02:11:03 +0000",
       "marsh": "2025-02-17 04:34:07 +0000",
       "old_growth_woodland": "2025-02-17 03:03:34 +0000",
       "mediterranean_forest": "2025-02-17 04:18:39 +0000",
@@ -3598,6 +3599,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-02-23 02:11:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_brick_slab": {
     "criteria": {
       "has_prismarine_bricks": "2025-02-23 01:58:27 +0000"
@@ -3613,6 +3620,12 @@
   "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
     "criteria": {
       "has_prismarine_bricks": "2025-02-23 01:58:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2025-02-23 02:11:15 +0000"
     },
     "done": true
   },
