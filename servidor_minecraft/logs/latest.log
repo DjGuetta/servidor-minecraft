@@ -806,3 +806,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [01:28:53] [Server thread/INFO]: Loading config from file...
 [01:28:53] [Server thread/INFO]: DjTwistfly joined the game
 [01:28:57] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player DjTwistfly. Claiming: GRAVE / Robbing: INVENTORY
+[01:35:15] [Server thread/INFO]: kevin2353hh[/100.95.11.122:53089] logged in with entity id 7083 at (-152.5, 89.0, -53.5)
+[01:35:15] [Server thread/INFO]: Syncing config to kevin2353hh (7447ad97-9fc9-3db9-9805-556bdd2bcbb4)
+[01:35:15] [Server thread/INFO]: Loading config from file...
+[01:35:15] [Server thread/INFO]: kevin2353hh joined the game
+[01:35:16] [Server thread/INFO]: kevin2353hh has made the advancement [Ice and Fire]
+[01:35:16] [Server thread/INFO]: kevin2353hh lost connection: Disconnected
+[01:35:16] [Server thread/INFO]: kevin2353hh left the game
+[01:37:17] [Server thread/INFO]: djgerad has made the advancement [Voluntary Exile]
+[01:54:20] [Server thread/INFO]: djgerad has made the advancement [This Must be a Sign!]
