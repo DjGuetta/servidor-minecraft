@@ -2800,75 +2800,81 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-23 02:52:12 +0000"
+      "log_spam_fixer": "2025-02-23 03:27:12 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-23 02:52:12 +0000"
+      "log_spam_fixer": "2025-02-23 03:27:12 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-23 02:52:12 +0000"
+      "log_spam_fixer": "2025-02-23 03:27:12 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-02-23 02:52:12 +0000"
+      "log_spam_fixer": "2025-02-23 03:27:12 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-23 02:52:12 +0000"
+      "log_spam_fixer": "2025-02-23 03:27:12 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-23 02:52:12 +0000"
+      "log_spam_fixer": "2025-02-23 03:27:12 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-23 02:52:12 +0000"
+      "log_spam_fixer": "2025-02-23 03:27:12 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-02-23 02:52:12 +0000"
+      "log_spam_fixer": "2025-02-23 03:27:12 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-02-23 02:52:12 +0000"
+      "log_spam_fixer": "2025-02-23 03:27:12 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-02-23 02:52:12 +0000"
+      "log_spam_fixer": "2025-02-23 03:27:12 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-23 02:52:12 +0000"
+      "log_spam_fixer": "2025-02-23 03:27:12 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-02-23 02:52:12 +0000"
+      "log_spam_fixer": "2025-02-23 03:27:12 +0000"
     },
     "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_slab": {
+    "criteria": {
+      "has_planks": "2025-02-23 03:13:18 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
@@ -2978,6 +2984,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/jacaranda_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-23 03:13:18 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/gold_hippogryph_armor": {
     "criteria": {
       "has_item": "2025-02-23 01:58:33 +0000"
@@ -2993,6 +3005,12 @@
   "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
     "criteria": {
       "has_log": "2025-02-23 02:12:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_door": {
+    "criteria": {
+      "has_planks": "2025-02-23 03:13:18 +0000"
     },
     "done": true
   },
@@ -3020,6 +3038,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/jacaranda_fence": {
+    "criteria": {
+      "has_planks": "2025-02-23 03:13:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-02-23 01:59:55 +0000"
@@ -3029,6 +3053,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-02-23 02:22:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_button": {
+    "criteria": {
+      "has_planks": "2025-02-23 03:13:18 +0000"
     },
     "done": true
   },
@@ -3062,9 +3092,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_jacaranda": {
+    "criteria": {
+      "has_item": "2025-02-23 03:13:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-02-23 01:59:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-23 03:13:18 +0000"
     },
     "done": true
   },
@@ -3092,6 +3134,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/jacaranda_sign": {
+    "criteria": {
+      "has_planks": "2025-02-23 03:13:18 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/altimeter": {
     "criteria": {
       "has_redstone": "2025-02-23 01:59:55 +0000"
@@ -3116,6 +3164,12 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/building_blocks/jacaranda_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-23 03:13:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-23 01:54:28 +0000"
@@ -3131,6 +3185,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-02-23 02:14:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-23 03:13:18 +0000"
     },
     "done": true
   },

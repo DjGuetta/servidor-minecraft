@@ -1787,6 +1787,7 @@
       "minecraft:river": "2025-02-17 05:03:51 +0000",
       "minecraft:stony_shore": "2025-02-17 05:28:03 +0000",
       "minecraft:ocean": "2025-02-17 05:19:04 +0000",
+      "minecraft:flower_forest": "2025-02-23 03:15:26 +0000",
       "minecraft:savanna": "2025-02-23 02:03:54 +0000",
       "minecraft:plains": "2025-02-22 20:06:09 +0000"
     },
@@ -3085,6 +3086,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-02-23 02:39:28 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-02-23 02:58:56 +0000"
     },
     "done": true
   },
