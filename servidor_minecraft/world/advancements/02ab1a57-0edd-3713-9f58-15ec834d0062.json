@@ -4330,15 +4330,39 @@
     },
     "done": true
   },
+  "infinitybuttons:recipes/redstone/lantern_button": {
+    "criteria": {
+      "has_thing": "2025-02-23 23:44:25 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/lantern_lever": {
+    "criteria": {
+      "has_thing": "2025-02-23 23:44:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-02-23 23:30:19 +0000"
     },
     "done": true
   },
+  "infinitybuttons:recipes/redstone/diamond_button": {
+    "criteria": {
+      "has_thing": "2025-02-23 23:43:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-02-23 23:30:19 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/diamond_large_button": {
+    "criteria": {
+      "has_thing": "2025-02-23 23:43:39 +0000"
     },
     "done": true
   },

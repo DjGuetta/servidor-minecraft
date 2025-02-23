@@ -771,3 +771,16 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [23:41:08] [Server thread/INFO]: kevin2353hh joined the game
 [23:41:08] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player kevin2353hh. Claiming: GRAVE / Robbing: INVENTORY
 [23:41:59] [Server thread/INFO]: kevin2353hh has made the advancement [Getting an Upgrade]
+[23:44:04] [Server thread/INFO]: MARAVILLA[/100.123.118.39:51925] logged in with entity id 6797 at (-927.5369719411331, 60.0, -219.30000001192093)
+[23:44:04] [Server thread/INFO]: Syncing config to MARAVILLA (6ac97a47-3a39-3751-b4fd-e7e9f31640f7)
+[23:44:04] [Server thread/INFO]: Loading config from file...
+[23:44:05] [Server thread/INFO]: MARAVILLA joined the game
+[23:44:06] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player MARAVILLA. Claiming: GRAVE / Robbing: INVENTORY
+[23:47:31] [Server thread/INFO]: kevin2353hh has made the advancement [Monster Hunter]
+[23:49:17] [Server thread/INFO]: [DjGuetta11: Teleported kevin2353hh to MARAVILLA]
+[23:50:20] [Server thread/INFO]: kevin2353hh has made the advancement [Isn't It Iron Pick]
+[23:50:47] [Server thread/INFO]: kevin2353hh has made the advancement [Amateur Archaeologist]
+[23:50:57] [Server thread/INFO]: kevin2353hh has made the advancement [Acquire Hardware]
+[23:50:59] [Server thread/INFO]: kevin2353hh has made the advancement [Iron, but dark]
+[23:51:29] [Server thread/INFO]: kevin2353hh has made the advancement [Cover Me with Diamonds]
+[23:51:30] [Server thread/INFO]: kevin2353hh has made the advancement [Suit Up]
