@@ -3627,6 +3627,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-02-23 06:18:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-02-23 04:41:07 +0000"
@@ -3861,6 +3867,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-02-23 06:18:10 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/wraith_dim_light": {
     "criteria": {
       "dim_light": "2025-02-23 04:15:50 +0000"
@@ -3936,6 +3948,12 @@
   "biomesoplenty:recipes/decorations/jacaranda_fence": {
     "criteria": {
       "has_planks": "2025-02-23 03:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-02-23 06:18:10 +0000"
     },
     "done": true
   },
@@ -4098,6 +4116,12 @@
   "biomesoplenty:recipes/decorations/blackstone_spines": {
     "criteria": {
       "has_blackstone": "2025-02-23 04:41:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-02-23 06:18:45 +0000"
     },
     "done": true
   },
