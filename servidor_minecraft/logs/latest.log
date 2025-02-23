@@ -2991,3 +2991,26 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [06:48:48] [Server thread/INFO]: DjGuetta11 left the game
 [06:50:23] [Server thread/INFO]: DjTwistfly lost connection: Disconnected
 [06:50:23] [Server thread/INFO]: DjTwistfly left the game
+[06:51:49] [Server thread/INFO]: Santialpz lost connection: Disconnected
+[06:51:49] [Server thread/INFO]: Santialpz left the game
+[06:52:04] [Server thread/INFO]: Stopping the server
+[06:52:04] [Server thread/INFO]: Stopping server
+[06:52:04] [Server thread/INFO]: Saving players
+[06:52:04] [Server thread/INFO]: Saving worlds
+[06:52:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:52:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/iceandfire:dread_land
+[06:52:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[06:52:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06:52:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[06:52:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[06:52:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06:52:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[06:52:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:52:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (dread_land): All chunks are saved
+[06:52:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[06:52:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:52:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[06:52:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[06:52:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:52:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[06:52:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
