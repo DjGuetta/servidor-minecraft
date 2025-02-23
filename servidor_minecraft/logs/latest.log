@@ -1757,3 +1757,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [04:59:35] [Server thread/INFO]: Named entity class_1549['Arag the Lurker'/222627, l='ServerLevel[world]', x=-1310.35, y=-6.58, z=447.65] died: Arag the Lurker was slain by MARAVILLA
 [05:07:55] [Server thread/INFO]: ZAFIRO29 has made the advancement [Suit Up]
 [05:08:39] [Server thread/INFO]: ZAFIRO29 has made the advancement [Isn't It Iron Pick]
+[05:11:05] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[05:11:05] [Netty Epoll Server IO #5/ERROR]: Twilight Forest: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[05:11:05] [Server thread/INFO]: ZAFIRO29 lost connection: Disconnected
+[05:11:05] [Server thread/INFO]: ZAFIRO29 left the game
+[05:11:05] [Server thread/INFO]: djgerad drowned
+[05:12:48] [Server thread/WARN]: DjTwistfly moved too quickly! 3.5424844294850573,-4.465441690934256,8.391945502312836
+[05:13:33] [Server thread/INFO]: djgerad claimed a grave belonging to djgerad at -1506, 110, -345, minecraft:overworld
+[05:15:49] [Server thread/INFO]: MARAVILLA claimed a grave belonging to MARAVILLA at -1586, 69, 307, minecraft:overworld
