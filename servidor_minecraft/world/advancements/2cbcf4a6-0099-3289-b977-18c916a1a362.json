@@ -2907,6 +2907,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-02-23 05:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-02-23 05:27:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-02-23 01:59:55 +0000"
@@ -3078,6 +3090,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-02-23 01:55:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-02-23 05:27:09 +0000"
     },
     "done": true
   },
@@ -3420,6 +3438,12 @@
   "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
     "criteria": {
       "has_moss_block": "2025-02-23 04:11:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-02-23 05:27:09 +0000"
     },
     "done": true
   },
