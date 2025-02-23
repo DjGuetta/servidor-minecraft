@@ -686,6 +686,7 @@
       "bread": "2025-02-18 03:54:31 +0000",
       "golden_apple": "2025-02-19 01:10:46 +0000",
       "rotten_flesh": "2025-02-17 03:13:08 +0000",
+      "golden_carrot": "2025-02-23 03:28:48 +0000",
       "cooked_chicken": "2025-02-19 02:20:22 +0000",
       "carrot": "2025-02-19 03:13:21 +0000"
     },
@@ -3952,6 +3953,12 @@
   "mcwwindows:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-02-23 02:52:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-23 03:36:16 +0000"
     },
     "done": true
   },

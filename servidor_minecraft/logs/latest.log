@@ -1666,3 +1666,20 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [03:27:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1514, y=67, z=286} class_2338{x=-1514, y=67, z=287}
 [03:27:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1514, y=67, z=285} class_2338{x=-1514, y=67, z=287}
 [03:27:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1523, y=68, z=291} class_2338{x=-1521, y=67, z=292}
+[03:30:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1504, y=66, z=282} class_2338{x=-1505, y=66, z=282}
+[03:30:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1502, y=67, z=288} class_2338{x=-1499, y=66, z=286}
+[03:30:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1489, y=65, z=289} class_2338{x=-1489, y=65, z=290}
+[03:31:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1486, y=64, z=280} class_2338{x=-1488, y=64, z=278}
+[03:31:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1487, y=65, z=277} class_2338{x=-1488, y=64, z=278}
+[03:31:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1483, y=63, z=272} class_2338{x=-1483, y=62, z=272}
+[03:31:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1483, y=63, z=272} class_2338{x=-1483, y=62, z=272}
+[03:31:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1483, y=63, z=272} class_2338{x=-1483, y=62, z=272}
+[03:31:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1483, y=63, z=272} class_2338{x=-1483, y=62, z=272}
+[03:31:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1500, y=65, z=273} class_2338{x=-1500, y=65, z=274}
+[03:31:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1500, y=65, z=273} class_2338{x=-1500, y=65, z=274}
+[03:31:48] [Server thread/INFO]: MARAVILLA hit the ground too hard
+[03:31:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1493, y=64, z=266} class_2338{x=-1492, y=63, z=267}
+[03:31:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1489, y=65, z=268} class_2338{x=-1488, y=62, z=269}
+[03:31:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1488, y=64, z=267} class_2338{x=-1488, y=62, z=269}
+[03:32:38] [Server thread/INFO]: MARAVILLA was slain by Wraith
+[03:34:16] [Server thread/INFO]: MARAVILLA claimed a grave belonging to MARAVILLA at -1949, -25, -1903, minecraft:overworld
