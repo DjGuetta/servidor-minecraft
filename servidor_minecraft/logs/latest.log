@@ -842,3 +842,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [03:11:23] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
 [03:11:23] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
 [03:11:25] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,19.580000013113022,0.0
+[03:16:14] [Server thread/WARN]: DjTwistfly moved wrongly!
+[03:16:14] [Server thread/WARN]: DjTwistfly moved wrongly!
+[03:17:40] [Server thread/WARN]: DjTwistfly moved wrongly!
+[03:17:40] [Server thread/WARN]: DjTwistfly moved too quickly! 0.1877087355956064,19.580000013113022,-0.10601349881418543
+[03:17:42] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
+[03:17:43] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
+[03:17:47] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-20.0,0.0
+[03:17:48] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,19.580000013113022,0.0
+[03:21:01] [Server thread/INFO]: DjGuetta11 lost connection: Disconnected
+[03:21:01] [Server thread/INFO]: DjGuetta11 left the game
