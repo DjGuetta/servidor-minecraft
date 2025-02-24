@@ -309,6 +309,7 @@
       "dried_kelp": "2025-02-24 05:44:29 +0000",
       "melon_slice": "2025-02-17 06:00:40 +0000",
       "golden_carrot": "2025-02-23 04:27:39 +0000",
+      "beetroot": "2025-02-24 18:29:49 +0000",
       "cooked_chicken": "2025-02-17 03:46:48 +0000",
       "cod": "2025-02-17 06:00:53 +0000",
       "cooked_salmon": "2025-02-18 05:41:50 +0000",
@@ -5286,6 +5287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-02-24 18:29:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-24 17:35:42 +0000"
@@ -5424,6 +5431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-24 18:29:22 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/copper_mesh_fence_from_stonecutting": {
     "criteria": {
       "has_item": "2025-02-24 18:04:23 +0000"
@@ -5514,6 +5527,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-02-24 18:29:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-24 18:02:10 +0000"
@@ -5580,6 +5599,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/iron_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-24 18:29:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-02-24 17:35:42 +0000"
@@ -5640,6 +5665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-02-24 18:29:22 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipes/redstone/oxidized_copper_button": {
     "criteria": {
       "has_thing": "2025-02-24 18:04:23 +0000"
@@ -5667,6 +5698,12 @@
   "create:recipes/misc/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2025-02-24 18:04:23 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-02-24 18:29:22 +0000"
     },
     "done": true
   },
@@ -5784,6 +5821,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-02-24 18:29:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-02-24 17:35:42 +0000"
@@ -5838,6 +5881,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-02-24 18:29:35 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipes/redstone/waxed_copper_large_button": {
     "criteria": {
       "has_thing": "2025-02-24 18:04:23 +0000"
@@ -5871,6 +5920,12 @@
   "infinitybuttons:recipes/redstone/tuff_button": {
     "criteria": {
       "has_thing": "2025-02-24 18:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-24 18:29:35 +0000"
     },
     "done": true
   },
@@ -5910,6 +5965,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-02-24 18:29:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_item": "2025-02-24 18:04:23 +0000"
@@ -5943,6 +6004,24 @@
   "infinitybuttons:recipes/redstone/sticky_weathered_copper_large_button": {
     "criteria": {
       "has_thing": "2025-02-24 18:04:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-02-24 18:29:35 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_hull": {
+    "criteria": {
+      "has_item": "2025-02-24 18:29:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-02-24 18:29:35 +0000"
     },
     "done": true
   },
@@ -5997,6 +6076,12 @@
   "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-24 18:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-24 18:29:35 +0000"
     },
     "done": true
   },
