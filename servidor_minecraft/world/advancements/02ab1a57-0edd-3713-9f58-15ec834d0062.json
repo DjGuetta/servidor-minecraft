@@ -6014,5 +6014,23 @@
     },
     "done": true
   },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-02-24 21:33:30 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-02-24 21:33:38 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "lost_eye": "2025-02-24 21:33:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
