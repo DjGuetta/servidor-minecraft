@@ -692,6 +692,7 @@
       "rotten_flesh": "2025-02-17 03:13:08 +0000",
       "golden_carrot": "2025-02-23 03:28:48 +0000",
       "cooked_chicken": "2025-02-19 02:20:22 +0000",
+      "cooked_salmon": "2025-02-24 18:51:16 +0000",
       "carrot": "2025-02-19 03:13:21 +0000"
     },
     "done": false
@@ -5768,6 +5769,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-02-24 18:51:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-24 18:06:43 +0000"
@@ -5777,6 +5784,12 @@
   "infinitybuttons:recipes/redstone/calcite_button_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-24 18:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-02-24 18:51:11 +0000"
     },
     "done": true
   },
@@ -5858,6 +5871,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-02-24 18:51:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-24 18:06:43 +0000"
@@ -5891,6 +5910,12 @@
   "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-24 18:06:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-02-24 18:51:11 +0000"
     },
     "done": true
   },
