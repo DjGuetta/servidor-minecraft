@@ -730,3 +730,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [05:10:17] [Server thread/INFO]: [DjGuetta11: Teleported DjGuetta11 to DjTwistfly]
 [05:10:33] [Server thread/INFO]: [Not Secure] <DjGuetta11> pere
 [05:13:02] [Server thread/INFO]: DjTwistfly claimed a grave belonging to DjTwistfly at -643, 78, 354, minecraft:overworld
+[05:20:45] [Server thread/INFO]: DjTwistfly has made the advancement [Spooky Scary Skeleton]
+[05:28:16] [Server thread/INFO]: DjTwistfly was killed by Silvana Heartfire using magic
+[05:29:03] [Server thread/INFO]: DjTwistfly claimed a grave belonging to DjTwistfly at -623, 59, 356, minecraft:overworld
+[05:30:41] [Server thread/INFO]: DjTwistfly was killed by Silvana Heartfire using magic
+[05:30:46] [Server thread/INFO]: DjTwistfly claimed a grave belonging to DjTwistfly at -624, 58, 356, minecraft:overworld
+[05:31:07] [Server thread/INFO]: DjTwistfly was killed by Silvana Heartfire using magic
+[05:31:11] [Server thread/INFO]: DjTwistfly claimed a grave belonging to DjTwistfly at -625, 59, 356, minecraft:overworld
+[05:31:26] [Server thread/INFO]: Named entity class_1640['Silvana Heartfire'/13593, l='ServerLevel[world]', x=-623.03, y=56.72, z=357.80] died: Silvana Heartfire was slain by DjTwistfly
