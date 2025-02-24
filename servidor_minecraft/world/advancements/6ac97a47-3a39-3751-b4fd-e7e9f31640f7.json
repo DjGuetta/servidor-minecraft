@@ -5563,9 +5563,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-02-24 03:48:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-02-24 03:07:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-02-24 03:48:17 +0000"
     },
     "done": true
   },
@@ -5575,9 +5587,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-02-24 03:48:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-02-24 03:03:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-02-24 03:48:17 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_hull": {
+    "criteria": {
+      "has_item": "2025-02-24 03:48:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-02-24 03:48:17 +0000"
     },
     "done": true
   },
@@ -5587,9 +5623,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-02-24 03:48:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2025-02-24 03:07:02 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-24 03:48:17 +0000"
     },
     "done": true
   },

@@ -4358,6 +4358,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2025-02-24 03:24:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2025-02-24 03:24:00 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/iron_catwalk_from_stonecutting": {
     "criteria": {
       "has_item": "2025-02-24 03:02:49 +0000"
@@ -4382,9 +4394,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/acacia_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-24 03:28:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/industrial_iron_block_from_iron_ingots_stonecutting": {
     "criteria": {
       "has_iron_ingots": "2025-02-24 03:02:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2025-02-24 03:24:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2025-02-24 03:24:00 +0000"
     },
     "done": true
   },
@@ -4406,9 +4436,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2025-02-24 03:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-02-24 03:20:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2025-02-24 03:24:00 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipes/redstone/iron_large_button": {
     "criteria": {
       "has_thing": "2025-02-24 03:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-02-24 03:20:52 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/acacia_plank_secret_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 03:28:08 +0000"
     },
     "done": true
   },
@@ -4433,6 +4493,12 @@
   "infinitybuttons:recipes/redstone/console_button": {
     "criteria": {
       "has_thing": "2025-02-24 03:02:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2025-02-24 03:24:00 +0000"
     },
     "done": true
   },
@@ -4472,9 +4538,45 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2025-02-24 03:24:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2025-02-24 03:24:00 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/root": {
     "criteria": {
       "crafting_table": "2025-02-24 03:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-02-24 03:27:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2025-02-24 03:24:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2025-02-24 03:24:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2025-02-24 03:24:00 +0000"
     },
     "done": true
   },
@@ -4532,15 +4634,45 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2025-02-24 03:24:00 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/acacia_large_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 03:28:08 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipes/redstone/big_console_button": {
     "criteria": {
       "has_thing": "2025-02-24 03:02:49 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2025-02-24 03:24:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/oak_window": {
     "criteria": {
       "has_ingredient": "2025-02-24 03:02:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2025-02-24 03:24:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2025-02-24 03:24:00 +0000"
     },
     "done": true
   },
