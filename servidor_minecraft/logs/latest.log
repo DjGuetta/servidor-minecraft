@@ -978,3 +978,68 @@ java.lang.ClassCastException: class net.minecraft.class_1739 cannot be cast to c
 [19:27:26] [Server thread/INFO]: LitMadnessxX joined the game
 [19:27:26] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player LitMadnessxX. Claiming: GRAVE / Robbing: INVENTORY
 [19:27:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19:28:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19:28:18] [Server thread/WARN]: DjTwistfly moved wrongly!
+[19:28:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2610ms or 52 ticks behind
+[19:28:27] [Server thread/WARN]: DjTwistfly moved too quickly! -0.19999998807907104,20.580000013113022,-0.09630691101554589
+[19:28:30] [Server thread/WARN]: DjTwistfly moved wrongly!
+[19:28:31] [Server thread/WARN]: DjTwistfly moved wrongly!
+[19:28:31] [Server thread/WARN]: DjTwistfly moved wrongly!
+[19:28:32] [Server thread/WARN]: DjTwistfly moved wrongly!
+[19:28:32] [Server thread/WARN]: DjTwistfly moved wrongly!
+[19:28:33] [Server thread/WARN]: DjTwistfly moved wrongly!
+[19:28:35] [Server thread/WARN]: DjTwistfly moved wrongly!
+[19:28:35] [Server thread/WARN]: DjTwistfly moved wrongly!
+[19:28:36] [Server thread/WARN]: DjTwistfly moved wrongly!
+[19:28:38] [Server thread/WARN]: DjTwistfly moved too quickly! -0.04448597454120318,20.580000013113022,0.05577814242425205
+[19:28:39] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
+[19:28:41] [Server thread/WARN]: DjTwistfly moved too quickly! 0.11638489090364601,19.580000013113022,0.07461661995707658
+[19:29:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19:30:33] [Server thread/INFO]: [Not Secure] <LitMadnessxX> Sixd
+[19:30:41] [Server thread/INFO]: [DjGuetta11: Teleported LitMadnessxX to DjGuetta11]
+[19:30:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[19:31:16] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[19:31:18] [Server thread/WARN]: LitMadnessxX moved wrongly!
+[19:31:28] [Server thread/WARN]: LitMadnessxX moved wrongly!
+[19:31:30] [Server thread/INFO]: DjTwistfly tried to swim in lava
+[19:31:34] [Server thread/INFO]: [Not Secure] <DjGuetta11> yXD
+[19:31:38] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-20.0,0.0
+[19:31:38] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-21.0,0.0
+[19:31:39] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-21.0,0.0
+[19:31:40] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-21.0,0.0
+[19:32:09] [Server thread/INFO]: DjTwistfly was burnt to a crisp whilst fighting Spider
+[19:32:14] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-20.0,0.0
+[19:32:14] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-21.0,0.0
+[19:32:15] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-21.0,0.0
+[19:32:16] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-21.0,0.0
+[19:32:25] [Server thread/WARN]: DjTwistfly moved too quickly! 0.09501798288010832,20.580000013113022,-0.1564592877268467
+[19:32:25] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
+[19:32:25] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
+[19:32:26] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,19.580000013113022,0.0
+[19:33:17] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-20.0,0.0
+[19:33:17] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-21.0,0.0
+[19:33:17] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-21.0,0.0
+[19:33:18] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-21.0,0.0
+[19:33:29] [Server thread/INFO]: LitMadnessxX has made the advancement [Amateur Archaeologist]
+[19:34:08] [Server thread/INFO]: DjTwistfly tried to swim in lava to escape Skeleton
+[19:34:13] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-20.0,0.0
+[19:34:13] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-21.0,0.0
+[19:34:13] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-21.0,0.0
+[19:34:14] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-21.0,0.0
+[19:34:14] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
+[19:34:15] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
+[19:34:15] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
+[19:34:16] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,19.580000013113022,0.0
+[19:34:27] [Server thread/INFO]: LitMadnessxX has made the advancement [Sweet Dreams]
+[19:35:26] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-20.0,0.0
+[19:35:26] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-21.0,0.0
+[19:35:26] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-21.0,0.0
+[19:35:27] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-21.0,0.0
+[19:35:27] [Server thread/WARN]: DjTwistfly moved wrongly!
+[19:35:28] [Server thread/WARN]: DjTwistfly moved wrongly!
+[19:35:33] [Server thread/WARN]: DjTwistfly moved wrongly!
+[19:35:58] [Server thread/INFO]: LitMadnessxX was doomed to fall by DjGuetta11
+[19:36:02] [Server thread/INFO]: DjTwistfly claimed a grave belonging to DjTwistfly at -1383, 68, 4, minecraft:overworld
+[19:36:11] [Server thread/INFO]: DjTwistfly claimed a grave belonging to DjTwistfly at -1380, 63, 8, minecraft:overworld
+[19:36:31] [Server thread/INFO]: DjTwistfly claimed a grave belonging to DjTwistfly at -1379, 55, 14, minecraft:overworld
+[19:36:35] [Server thread/INFO]: LitMadnessxX claimed a grave belonging to LitMadnessxX at -700, 88, -5, minecraft:overworld
