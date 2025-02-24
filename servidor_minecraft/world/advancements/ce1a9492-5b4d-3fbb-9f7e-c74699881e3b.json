@@ -306,6 +306,7 @@
       "suspicious_stew": "2025-02-19 03:53:25 +0000",
       "cookie": "2025-02-23 04:36:12 +0000",
       "glow_berries": "2025-02-24 05:13:09 +0000",
+      "dried_kelp": "2025-02-24 05:44:29 +0000",
       "melon_slice": "2025-02-17 06:00:40 +0000",
       "golden_carrot": "2025-02-23 04:27:39 +0000",
       "cooked_chicken": "2025-02-17 03:46:48 +0000",
@@ -4864,6 +4865,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-24 06:01:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-24 06:01:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-24 06:01:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-24 06:01:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-24 06:01:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-24 06:01:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-24 06:01:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-24 06:01:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-24 06:01:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-24 06:01:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-24 06:01:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-24 06:01:57 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-24 05:25:44 +0000"
@@ -4936,6 +5009,25 @@
     },
     "done": true
   },
+  "the_bumblezone:biomes/discover_all_biomes": {
+    "criteria": {
+      "sugar_water_floor": "2025-02-24 05:54:25 +0000",
+      "hive_wall": "2025-02-24 05:54:05 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
+    "criteria": {
+      "teleport_to_bumblezone_pearl": "2025-02-24 05:53:59 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
+    "criteria": {
+      "bee_hit_wrath_of_the_hive": "2025-02-24 05:55:14 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_jungle": {
     "criteria": {
       "has_item": "2025-02-24 05:22:48 +0000"
@@ -4993,6 +5085,12 @@
   "infinitybuttons:recipes/redstone/cracked_polished_blackstone_brick_secret_button": {
     "criteria": {
       "has_thing": "2025-02-24 05:26:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/stripped_jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-02-24 06:00:40 +0000"
     },
     "done": true
   },
@@ -5074,6 +5172,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/jacaranda_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-24 06:00:40 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candy": {
     "criteria": {
       "has_honey_bottle": "2025-02-24 05:25:02 +0000"
@@ -5104,6 +5208,12 @@
     },
     "done": true
   },
+  "the_bumblezone:teleportation/teleport_out_of_bumblezone": {
+    "criteria": {
+      "teleport_out_of_bumblezone": "2025-02-24 05:57:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-02-24 05:22:48 +0000"
@@ -5113,6 +5223,18 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-24 05:25:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-02-24 05:48:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-02-24 05:54:52 +0000"
     },
     "done": true
   },
@@ -5140,6 +5262,12 @@
     },
     "done": true
   },
+  "infinitybuttons:recipes/redstone/soul_torch_lever": {
+    "criteria": {
+      "has_thing": "2025-02-24 05:48:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2025-02-24 05:22:56 +0000"
@@ -5164,9 +5292,21 @@
     },
     "done": true
   },
+  "infinitybuttons:recipes/redstone/soul_torch_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 05:48:19 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stonecutting/blackstone_tile": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-24 05:25:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-02-24 05:54:52 +0000"
     },
     "done": true
   },
