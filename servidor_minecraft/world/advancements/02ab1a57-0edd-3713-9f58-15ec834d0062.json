@@ -6015,11 +6015,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "endrem:main/old_eye": {
     "criteria": {
-      "requirement": "2025-02-24 21:59:52 +0000"
+      "old_eye": "2025-02-24 22:09:15 +0000"
     },
-    "done": false
+    "done": true
   },
   "endrem:main/lost_eye": {
     "criteria": {

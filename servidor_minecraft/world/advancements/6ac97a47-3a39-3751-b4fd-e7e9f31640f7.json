@@ -5928,6 +5928,12 @@
     },
     "done": true
   },
+  "infinitybuttons:recipes/redstone/deepslate_brick_secret_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 22:08:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-02-24 21:11:10 +0000"
