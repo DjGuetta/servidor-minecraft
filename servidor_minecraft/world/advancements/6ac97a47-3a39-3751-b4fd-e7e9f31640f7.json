@@ -5004,15 +5004,555 @@
     },
     "done": true
   },
+  "infinitybuttons:recipes/redstone/cracked_deepslate_tile_secret_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:36:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-24 02:34:01 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/sticky_weathered_copper_large_button_pouring_honey": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/cracked_deepslate_brick_secret_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:35:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-24 02:34:01 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/waxed_exposed_copper_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/waxed_exposed_copper_large_button_waxing": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/waxed_weathered_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/tuff_button_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-02-24 02:34:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-24 02:34:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-24 02:34:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_tiles_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-24 02:34:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-24 02:34:01 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/waxed_oxidized_copper_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_support": {
+    "criteria": {
+      "has_item": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipes/redstone/diamond_button": {
     "criteria": {
       "has_thing": "2025-02-24 02:26:02 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-24 02:34:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_mesh_fence_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/waxed_exposed_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/waxed_oxidized_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-24 02:34:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_bars_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/sticky_weathered_copper_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-24 02:34:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/weathered_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/sticky_exposed_copper_large_button_pouring_honey": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/sticky_copper_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-24 02:34:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-24 02:34:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-24 02:34:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_catwalk_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipes/redstone/diamond_large_button": {
     "criteria": {
       "has_thing": "2025-02-24 02:26:02 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/waxed_copper_large_button_waxing": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/exposed_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/exposed_copper_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/sticky_exposed_copper_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/copper_window": {
+    "criteria": {
+      "has_item": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_door": {
+    "criteria": {
+      "has_item": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/oxidized_copper_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_ladder_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_bars": {
+    "criteria": {
+      "has_item": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-24 02:34:01 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/tuff_large_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:34:01 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/oxidized_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-24 02:34:01 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_spruce_sign": "2025-02-24 02:39:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/sticky_copper_large_button_pouring_honey": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/sticky_oxidized_copper_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/sticky_oxidized_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/sticky_exposed_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_trapdoor": {
+    "criteria": {
+      "has_item": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/waxed_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/sticky_oxidized_copper_large_button_pouring_honey": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/waxed_oxidized_copper_large_button_waxing": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_bars_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/waxed_copper_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/tuff_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:34:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_scaffolding_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/sticky_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-24 02:34:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingles_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_catwalk_stairs_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/sticky_weathered_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_bars_overlay_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_support_wedge_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/waxed_weathered_copper_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-24 02:34:01 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/waxed_weathered_copper_large_button_waxing": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-24 02:34:01 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/deepslate_tile_secret_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:35:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-24 02:34:01 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/weathered_copper_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_catwalk_railing_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-24 02:39:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-24 02:34:01 +0000"
     },
     "done": true
   },
