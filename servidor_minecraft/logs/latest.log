@@ -737,3 +737,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [21:01:33] [Server thread/INFO]: Did not backup data (grave data empty)
 [21:02:24] [Server thread/INFO]: [DjGuetta11: Teleported MARAVILLA to -1423.500000, 981.000000, 80.500000]
 [21:03:12] [Server thread/INFO]: [DjGuetta11: Teleported MARAVILLA to -1399.500000, 900.000000, 80.500000]
+[21:04:34] [Server thread/INFO]: [DjGuetta11: Gave 25 experience levels to MARAVILLA]
+[21:09:03] [Server thread/INFO]: MARAVILLA claimed a grave belonging to MARAVILLA at -1424, 70, 984, minecraft:overworld
