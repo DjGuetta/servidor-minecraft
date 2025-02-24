@@ -732,6 +732,7 @@
       "cooked_mutton": "2025-02-17 04:16:46 +0000",
       "cooked_beef": "2025-02-17 03:21:50 +0000",
       "baked_potato": "2025-02-19 03:35:30 +0000",
+      "apple": "2025-02-24 21:57:49 +0000",
       "cooked_cod": "2025-02-22 20:18:28 +0000",
       "pumpkin_pie": "2025-02-24 03:56:34 +0000",
       "bread": "2025-02-17 04:49:32 +0000",
@@ -6014,9 +6015,27 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-02-24 21:59:52 +0000"
+    },
+    "done": false
+  },
   "endrem:main/lost_eye": {
     "criteria": {
       "lost_eye": "2025-02-24 21:33:30 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/torch_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 21:58:08 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/torch_lever": {
+    "criteria": {
+      "has_thing": "2025-02-24 21:58:08 +0000"
     },
     "done": true
   },
