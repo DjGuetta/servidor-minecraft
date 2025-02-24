@@ -4330,78 +4330,29 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
     "criteria": {
-      "log_spam_fixer": "2025-02-24 00:09:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-24 00:09:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-24 00:09:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-02-24 00:10:11 +0000",
-      "log_spam_fixer": "2025-02-24 00:09:42 +0000"
+      "has_item": "2025-02-23 23:30:19 +0000"
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
+  "create:recipes/misc/crafting/tree_fertilizer": {
     "criteria": {
-      "log_spam_fixer": "2025-02-24 00:09:42 +0000"
+      "has_item": "2025-02-23 23:30:19 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "infinitybuttons:recipes/redstone/diamond_button": {
     "criteria": {
-      "log_spam_fixer": "2025-02-24 00:09:42 +0000"
+      "has_thing": "2025-02-23 23:43:39 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "infinitybuttons:recipes/redstone/diamond_large_button": {
     "criteria": {
-      "log_spam_fixer": "2025-02-24 00:09:42 +0000"
+      "has_thing": "2025-02-23 23:43:39 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-24 00:09:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-24 00:09:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-24 00:09:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-24 00:09:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-24 00:09:42 +0000"
-    },
-    "done": false
+    "done": true
   },
   "infinitybuttons:recipes/redstone/lantern_button": {
     "criteria": {
@@ -4415,27 +4366,261 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "has_item": "2025-02-23 23:30:19 +0000"
+      "log_spam_fixer": "2025-02-24 00:29:47 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-24 00:29:47 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-24 00:29:47 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-24 00:29:47 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-24 00:29:47 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-24 00:29:47 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-24 00:29:47 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-24 00:29:47 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-24 00:29:47 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-24 00:29:47 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-24 00:29:47 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-24 00:29:47 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2025-02-24 00:22:01 +0000"
     },
     "done": true
   },
-  "infinitybuttons:recipes/redstone/diamond_button": {
+  "infinitybuttons:recipes/redstone/emerald_button": {
     "criteria": {
-      "has_thing": "2025-02-23 23:43:39 +0000"
+      "has_thing": "2025-02-24 00:25:16 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/tree_fertilizer": {
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
     "criteria": {
-      "has_item": "2025-02-23 23:30:19 +0000"
+      "has_item": "2025-02-24 00:22:01 +0000"
     },
     "done": true
   },
-  "infinitybuttons:recipes/redstone/diamond_large_button": {
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
     "criteria": {
-      "has_thing": "2025-02-23 23:43:39 +0000"
+      "has_item": "2025-02-24 00:21:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2025-02-24 00:21:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2025-02-24 00:21:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-24 00:22:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-02-24 00:24:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-24 00:21:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2025-02-24 00:22:01 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/stone_brick_secret_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 00:22:01 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/emerald_large_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 00:25:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-02-24 00:20:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-02-24 00:24:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-24 00:21:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-02-24 00:21:59 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/redstone_torch_lever": {
+    "criteria": {
+      "has_thing": "2025-02-24 00:20:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-24 00:22:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-02-24 00:20:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-02-24 00:20:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-02-24 00:20:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-02-24 00:24:29 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/redstone_torch_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 00:20:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-24 00:22:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-24 00:22:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-24 00:22:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-24 00:22:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-24 00:22:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-02-24 00:21:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-02-24 00:20:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-24 00:22:01 +0000"
     },
     "done": true
   },

@@ -10,3 +10,41 @@
 [00:12:36] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player DjGuetta11. Claiming: GRAVE / Robbing: INVENTORY
 [00:13:44] [Server thread/INFO]: Villager class_1646['Nitwit'/30265, l='ServerLevel[world]', x=-1218.36, y=65.00, z=721.32] died, message: 'Nitwit was burnt to a crisp whilst fighting MARAVILLA'
 [00:14:35] [Server thread/INFO]: kevin2353hh has made the advancement [Call For Adventure]
+[00:14:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5495ms or 109 ticks behind
+[00:14:47] [Server thread/INFO]: MARAVILLA lost connection: Disconnected
+[00:14:47] [Server thread/INFO]: MARAVILLA left the game
+[00:15:01] [Server thread/INFO]: MARAVILLA[/100.123.118.39:52041] logged in with entity id 34309 at (-1187.719705628175, 93.0, 717.2263048611452)
+[00:15:01] [Server thread/INFO]: Syncing config to MARAVILLA (6ac97a47-3a39-3751-b4fd-e7e9f31640f7)
+[00:15:01] [Server thread/INFO]: Loading config from file...
+[00:15:01] [Server thread/INFO]: MARAVILLA joined the game
+[00:15:02] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player MARAVILLA. Claiming: GRAVE / Robbing: INVENTORY
+[00:17:52] [Server thread/INFO]: kevin2353hh has made the advancement [Invitation to the Tea Party]
+[00:21:56] [Server thread/INFO]: DjGuetta11 has made the advancement [They Have a Cave Troll!]
+[00:29:36] [Server thread/INFO]: kevin2353hh has made the advancement [Diamonds!]
+[00:29:54] [Server thread/INFO]: kevin2353hh lost connection: Disconnected
+[00:29:54] [Server thread/INFO]: kevin2353hh left the game
+[00:30:11] [Server thread/INFO]: DjGuetta11 lost connection: Disconnected
+[00:30:11] [Server thread/INFO]: DjGuetta11 left the game
+[00:30:14] [Server thread/INFO]: MARAVILLA lost connection: Disconnected
+[00:30:14] [Server thread/INFO]: MARAVILLA left the game
+[00:30:17] [Server thread/INFO]: Stopping the server
+[00:30:17] [Server thread/INFO]: Stopping server
+[00:30:17] [Server thread/INFO]: Saving players
+[00:30:17] [Server thread/INFO]: Saving worlds
+[00:30:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:30:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[00:30:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/iceandfire:dread_land
+[00:30:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[00:30:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[00:30:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[00:30:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:30:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:30:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:30:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[00:30:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (dread_land): All chunks are saved
+[00:30:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[00:30:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[00:30:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[00:30:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:30:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:30:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
