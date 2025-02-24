@@ -768,3 +768,20 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [17:45:25] [Server thread/INFO]: Syncing config to DjGuetta11 (02ab1a57-0edd-3713-9f58-15ec834d0062)
 [17:45:25] [Server thread/INFO]: Loading config from file...
 [17:45:25] [Server thread/INFO]: DjGuetta11 joined the game
+[17:45:27] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player DjGuetta11. Claiming: GRAVE / Robbing: INVENTORY
+[17:45:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[17:45:51] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1157, y=-21, z=2322}
+[17:45:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2542ms or 50 ticks behind
+[17:45:53] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=-1090, y=-24, z=2351}
+[17:46:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4219ms or 84 ticks behind
+[17:46:14] [Server thread/INFO]: [Not Secure] <DjGuetta11> epa, Kevin, aún sigue lo de los 10 pesos, ¿no?
+[17:46:28] [Server thread/INFO]: [Not Secure] <kevin2353hh> 7
+[17:46:34] [Server thread/INFO]: [Not Secure] <DjGuetta11> toche, dijo 10
+[17:46:48] [Server thread/INFO]: [Not Secure] <DjGuetta11> 1000 pavos que le va a dar a Andrei son más de 10 pesos :v
+[17:47:00] [Server thread/INFO]: [Not Secure] <MARAVILLA> me va a dar el filo 5 edwin que quiere
+[17:47:13] [Server thread/INFO]: [Not Secure] <DjTwistfly> qlo suyo cagado
+[17:47:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3483ms or 69 ticks behind
+[17:51:26] [Server thread/INFO]: [Not Secure] <MARAVILLA> diga
+[17:54:00] [Server thread/INFO]: [Not Secure] <DjTwistfly> no se
+[17:54:14] [Server thread/INFO]: [Not Secure] <DjTwistfly> ese filo 5 tiene mucho valor
+[17:54:58] [Server thread/INFO]: Villager class_1646['Unemployed'/17246, l='ServerLevel[world]', x=-948.54, y=81.50, z=2026.93] died, message: 'Unemployed suffocated in a wall'

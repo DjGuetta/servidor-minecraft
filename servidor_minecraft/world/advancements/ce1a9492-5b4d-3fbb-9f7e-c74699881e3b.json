@@ -5238,6 +5238,12 @@
     },
     "done": true
   },
+  "infinitybuttons:recipes/redstone/cracked_deepslate_tile_secret_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 17:49:21 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:emergency": {
     "criteria": {
       "emergencypush": "2025-02-24 17:32:11 +0000"
@@ -5298,6 +5304,12 @@
     },
     "done": true
   },
+  "infinitybuttons:recipes/redstone/diamond_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 17:47:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-24 17:35:42 +0000"
@@ -5334,9 +5346,21 @@
     },
     "done": true
   },
+  "infinitybuttons:recipes/redstone/diamond_large_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 17:47:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-02-24 17:35:42 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig_smithing": {
+    "criteria": {
+      "has_pig": "2025-02-24 17:44:51 +0000"
     },
     "done": true
   },
@@ -5445,6 +5469,12 @@
   "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-24 17:35:42 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/deepslate_tile_secret_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 17:49:22 +0000"
     },
     "done": true
   },
