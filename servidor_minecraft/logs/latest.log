@@ -1043,3 +1043,30 @@ java.lang.ClassCastException: class net.minecraft.class_1739 cannot be cast to c
 [19:36:11] [Server thread/INFO]: DjTwistfly claimed a grave belonging to DjTwistfly at -1380, 63, 8, minecraft:overworld
 [19:36:31] [Server thread/INFO]: DjTwistfly claimed a grave belonging to DjTwistfly at -1379, 55, 14, minecraft:overworld
 [19:36:35] [Server thread/INFO]: LitMadnessxX claimed a grave belonging to LitMadnessxX at -700, 88, -5, minecraft:overworld
+[19:38:39] [Server thread/INFO]: Expected integer
+[19:38:39] [Server thread/INFO]: ...ep.config value<--[HERE]
+[19:38:59] [Server thread/INFO]: Set [sleep.config] for &percentage_mode to 1
+[19:39:31] [Server thread/INFO]: Set [sleep.config] for &percentage_to_sleep to 50
+[19:39:56] [Server thread/INFO]: Named entity class_1642['Corvin the Rotten'/106545, l='ServerLevel[world]', x=-1141.95, y=-25.00, z=2292.70] died: Corvin the Rotten was slain by kevin2353hh
+[19:39:58] [Server thread/INFO]: kevin2353hh has completed the challenge [Serious Dedication]
+[19:40:16] [Server thread/INFO]: Set [sleep.config] for &time_until_skip to 1
+[19:40:49] [Server thread/INFO]: Set [sleep.config] for &time_control to 1
+[19:40:57] [Server thread/INFO]: Set [sleep.config] for &time_until_skip to 1
+[19:41:38] [Server thread/WARN]: DjTwistfly moved too quickly! 0.08946042099614715,19.580000013113022,0.1869851995602687
+[19:42:07] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[19:42:08] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[19:42:09] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[19:42:09] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[19:42:10] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[19:43:58] [Server thread/WARN]: DjTwistfly moved too quickly! -0.027182061584881012,20.580000013113022,0.19565508910211804
+[19:43:59] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-21.0,0.0
+[19:44:04] [Server thread/WARN]: DjTwistfly moved too quickly! 0.018886144231601065,20.580000013113022,0.137730847906532
+[19:44:04] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
+[19:44:05] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
+[19:44:05] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,19.580000013113022,0.0
+[19:45:16] [Server thread/INFO]: LitMadnessxX fell from a high place
+[19:45:31] [Server thread/INFO]: kevin2353hh was slain by Corrupted Pillager
+[19:45:33] [Server thread/INFO]: [Not Secure] <DjGuetta11> si se colocan una azada en la mano izquierda y le dan clic al cultivo, lo quitan y lo vuelven a colocar automaticamente
+[19:45:33] [Server thread/INFO]: kevin2353hh claimed a grave belonging to kevin2353hh at -1122, -22, 2289, minecraft:overworld
+[19:45:51] [Server thread/WARN]: kevin2353hh moved wrongly!
+[19:46:04] [Server thread/INFO]: LitMadnessxX claimed a grave belonging to LitMadnessxX at -700, 94, -2, minecraft:overworld

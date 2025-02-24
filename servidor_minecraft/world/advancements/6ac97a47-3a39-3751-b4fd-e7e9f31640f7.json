@@ -5901,6 +5901,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/wither_smithing": {
+    "criteria": {
+      "has_wither": "2025-02-24 19:40:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-24 18:06:43 +0000"
