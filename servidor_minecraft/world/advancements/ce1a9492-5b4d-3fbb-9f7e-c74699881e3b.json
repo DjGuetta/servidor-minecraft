@@ -4502,6 +4502,12 @@
     },
     "done": true
   },
+  "infinitybuttons:first_button": {
+    "criteria": {
+      "safe_emergency_buttons": "2025-02-24 04:30:54 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipes/redstone/large_console_lever": {
     "criteria": {
       "has_thing": "2025-02-24 03:02:49 +0000"

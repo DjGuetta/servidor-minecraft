@@ -4932,6 +4932,12 @@
     },
     "done": true
   },
+  "infinitybuttons:recipes/redstone/deepslate_brick_secret_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 04:30:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-24 04:15:03 +0000"
@@ -4953,6 +4959,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-24 04:15:03 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/stone_button_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-24 04:32:27 +0000"
     },
     "done": true
   },
@@ -4986,6 +4998,24 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/vertical_framed_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-02-24 04:38:05 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:secret_button": {
+    "criteria": {
+      "secretbutton": "2025-02-24 04:30:31 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:first_button": {
+    "criteria": {
+      "buttons": "2025-02-24 04:29:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-24 04:15:03 +0000"
@@ -5001,6 +5031,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-24 04:15:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-02-24 04:38:05 +0000"
     },
     "done": true
   },
@@ -5034,6 +5070,12 @@
     },
     "done": true
   },
+  "infinitybuttons:recipes/redstone/stone_large_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 04:32:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-24 04:15:03 +0000"
@@ -5064,6 +5106,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/framed_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-02-24 04:38:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-24 04:15:03 +0000"
@@ -5085,6 +5133,12 @@
   "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-24 04:15:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-02-24 04:38:05 +0000"
     },
     "done": true
   },
