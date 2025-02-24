@@ -734,3 +734,37 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [17:23:58] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player DjTwistfly. Claiming: GRAVE / Robbing: INVENTORY
 [17:24:03] [Server thread/INFO]: kevin2353hh has made the advancement [Who You Gonna Call?]
 [17:24:14] [Server thread/INFO]: kevin2353hh has made the advancement [Sweet Dreams]
+[17:25:13] [Server thread/INFO]: kevin2353hh was killed by Silvana Heartfire using magic
+[17:25:43] [Server thread/INFO]: kevin2353hh was doomed to fall
+[17:25:43] [Server thread/INFO]: Did not backup data (grave data empty)
+[17:29:03] [Server thread/INFO]: kevin2353hh claimed a grave belonging to kevin2353hh at -1260, 115, 977, minecraft:overworld
+[17:29:20] [Server thread/INFO]: kevin2353hh was killed by Silvana Heartfire using magic
+[17:29:37] [Server thread/INFO]: kevin2353hh claimed a grave belonging to kevin2353hh at -1259, 115, 975, minecraft:overworld
+[17:29:47] [Server thread/INFO]: Named entity class_1640['Silvana Heartfire'/8285, l='ServerLevel[world]', x=-1259.65, y=114.00, z=976.63] died: Silvana Heartfire was slain by kevin2353hh
+[17:29:58] [Server thread/WARN]: DjTwistfly moved too quickly! 0.02531950383468029,-21.0,-0.2993404318980737
+[17:29:59] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-21.0,0.0
+[17:29:59] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
+[17:30:15] [Server thread/INFO]: kevin2353hh hit the ground too hard
+[17:30:19] [Server thread/WARN]: DjTwistfly moved too quickly! -0.16685358347149304,20.580000013113022,0.09137267674041993
+[17:30:19] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,19.580000013113022,0.0
+[17:30:31] [Server thread/INFO]: kevin2353hh claimed a grave belonging to kevin2353hh at -1256, 127, 972, minecraft:overworld
+[17:32:11] [Server thread/INFO]: DjTwistfly has made the advancement [Emergency!]
+[17:33:33] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1179, y=-35, z=1558}
+[17:33:33] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1174, y=-35, z=1558}
+[17:35:15] [Server thread/WARN]: DjTwistfly moved too quickly! -4.711541659000204,-0.6784392392144554,-8.891219558643776
+[17:37:06] [Server thread/INFO]: kevin2353hh fell from a high place
+[17:37:11] [Server thread/INFO]: kevin2353hh claimed a grave belonging to kevin2353hh at -1159, 77, 1565, minecraft:overworld
+[17:39:43] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[17:39:49] [Server thread/INFO]: kevin2353hh hit the ground too hard
+[17:39:55] [Server thread/INFO]: kevin2353hh claimed a grave belonging to kevin2353hh at -938, 94, 1819, minecraft:overworld
+[17:40:48] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[17:40:48] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[17:40:48] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[17:40:48] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[17:40:48] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[17:41:26] [Server thread/INFO]: Villager class_1646['Unemployed'/17251, l='ServerLevel[world]', x=-949.44, y=81.50, z=2019.07] died, message: 'Unemployed suffocated in a wall'
+[17:42:27] [Server thread/INFO]: Villager class_1646['Unemployed'/17248, l='ServerLevel[world]', x=-956.07, y=81.50, z=2019.30] died, message: 'Unemployed suffocated in a wall'
+[17:45:25] [Server thread/INFO]: DjGuetta11[/100.71.91.78:50662] logged in with entity id 22479 at (-680.4630230805096, 146.0, 7.203750960649222)
+[17:45:25] [Server thread/INFO]: Syncing config to DjGuetta11 (02ab1a57-0edd-3713-9f58-15ec834d0062)
+[17:45:25] [Server thread/INFO]: Loading config from file...
+[17:45:25] [Server thread/INFO]: DjGuetta11 joined the game
