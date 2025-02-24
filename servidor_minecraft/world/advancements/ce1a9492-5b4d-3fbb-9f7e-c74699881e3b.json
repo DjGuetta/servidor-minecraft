@@ -5275,6 +5275,18 @@
     },
     "done": true
   },
+  "infinitybuttons:recipes/redstone/cracked_deepslate_brick_secret_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 19:15:15 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/sand_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 19:16:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-24 18:02:10 +0000"
@@ -5302,6 +5314,12 @@
   "infinitybuttons:recipes/redstone/emerald_button": {
     "criteria": {
       "has_thing": "2025-02-24 18:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-02-24 19:13:30 +0000"
     },
     "done": true
   },
@@ -5623,6 +5641,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/vertical_framed_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-02-24 19:19:00 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipes/redstone/exposed_copper_large_button": {
     "criteria": {
       "has_thing": "2025-02-24 18:04:23 +0000"
@@ -5773,6 +5797,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-02-24 19:20:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2025-02-24 18:04:23 +0000"
@@ -5782,6 +5812,12 @@
   "create:recipes/misc/crafting/kinetics/mechanical_pump": {
     "criteria": {
       "has_item": "2025-02-24 18:04:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-02-24 19:19:00 +0000"
     },
     "done": true
   },
@@ -5941,6 +5977,12 @@
     },
     "done": true
   },
+  "infinitybuttons:recipes/redstone/sand_large_button": {
+    "criteria": {
+      "has_thing": "2025-02-24 19:16:10 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipes/redstone/sticky_copper_large_button": {
     "criteria": {
       "has_thing": "2025-02-24 18:04:23 +0000"
@@ -5962,6 +6004,12 @@
   "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-24 18:02:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-02-24 19:19:00 +0000"
     },
     "done": true
   },
@@ -6088,6 +6136,18 @@
   "infinitybuttons:recipes/redstone/deepslate_tile_secret_button": {
     "criteria": {
       "has_thing": "2025-02-24 17:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-02-24 19:20:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-02-24 19:19:00 +0000"
     },
     "done": true
   },
